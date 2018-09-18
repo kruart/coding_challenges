@@ -22,4 +22,4 @@ where,
         5
 
 **Explanation**  
-The sum of the two *a* integers *b* and  is computed as: 2 + 3 = 5.*/
+The sum of the two *a* integers *b* and  is computed as: 2 + 3 = 5.
