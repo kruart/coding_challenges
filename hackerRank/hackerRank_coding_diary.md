@@ -4,7 +4,9 @@ Solved:
 17.09    [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)  
 18.09    [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem),
          [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem),
-         [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
+         [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem), 
+         [CompareTheTriplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+         
 
 Done with help:
 ------
