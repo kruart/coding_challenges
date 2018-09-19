@@ -32,13 +32,5 @@ public class HackerRankInAString {
         System.out.println(hackerrankInString("hhhhaaaaackkkkerrrrrrrrank"));   //YES
         System.out.println(hackerrankInString("crackerhackerknar"));            //NO
         System.out.println(hackerrankInString("hhhackkerbanker"));              //NO
-
-
-
-
-
-
-
-
     }
 }

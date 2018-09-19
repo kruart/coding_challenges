@@ -9,7 +9,8 @@ Solved:
          [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem), 
          [CompareTheTriplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem),
          [TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem)  
-19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
+19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
+         [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem)
          
 
 Done with help:
