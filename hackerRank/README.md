@@ -11,7 +11,8 @@ Solved:
          [TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem)  
 19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
          [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem),
-         [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+         [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem),
+         [DiagonalDifference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
          
 
 Done with help:
