@@ -3,16 +3,17 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-17.09    [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)  
+19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
+         [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem),
+         [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem),
+         [DiagonalDifference](https://www.hackerrank.com/challenges/diagonal-difference/problem),
+         [Staircase](https://www.hackerrank.com/challenges/staircase/problem)  
 18.09    [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem),
          [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem),
          [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem), 
          [CompareTheTriplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem),
          [TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem)  
-19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
-         [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem),
-         [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem),
-         [DiagonalDifference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+17.09    [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)  
          
 
 Done with help:
