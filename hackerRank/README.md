@@ -6,7 +6,8 @@ Solved:
 20.09    [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem), 
          [MiniMaxSum](https://www.hackerrank.com/challenges/mini-max-sum/problem),
          [BirthdayCakeCandles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem),
-         [TimeConversion](ttps://www.hackerrank.com/challenges/time-conversion/problem)  
+         [TimeConversion](ttps://www.hackerrank.com/challenges/time-conversion/problem),
+         [GradingStudents](https://www.hackerrank.com/challenges/grading/problem)  
 19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
          [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem),
          [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem),
