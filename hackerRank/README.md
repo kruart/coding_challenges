@@ -3,7 +3,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-20.09    [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem)  
+20.09    [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem), 
+         [MiniMaxSum](https://www.hackerrank.com/challenges/mini-max-sum/problem)  
 19.09    [HackerRankInString](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem),
          [FunnyString](https://www.hackerrank.com/challenges/funny-string/problem),
          [AVeryBigSum](https://www.hackerrank.com/challenges/a-very-big-sum/problem),
