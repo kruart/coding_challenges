@@ -3,7 +3,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-21.09    [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem)  
+21.09    [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem),
+         [MarsExploration](https://www.hackerrank.com/challenges/mars-exploration/problem)  
 20.09    [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem), 
          [MiniMaxSum](https://www.hackerrank.com/challenges/mini-max-sum/problem),
          [BirthdayCakeCandles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem),
