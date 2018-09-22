@@ -15,8 +15,7 @@ public class BreakingTheRecords {
             if (scores[i] > maximum) {
                 maximum = scores[i];
                 countMaxRecord++;
-            }
-            else if (scores[i] < minimum) {
+            } else if (scores[i] < minimum) {
                 minimum = scores[i];
                 countMinRecord++;
             }
