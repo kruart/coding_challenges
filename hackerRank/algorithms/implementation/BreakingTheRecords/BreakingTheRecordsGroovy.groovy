@@ -1,6 +1,6 @@
 package algorithms.implementation.BreakingTheRecords
 
-
+// https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 static breakingRecords(List scores) {
     int max = scores[0]
     int min = scores[0]
