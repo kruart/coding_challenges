@@ -3,7 +3,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-22.09    [BreakingTheRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)  
+22.09    [BreakingTheRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem), 
+         [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem)  
 21.09    [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem),
          [MarsExploration](https://www.hackerrank.com/challenges/mars-exploration/problem),
          [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem),
@@ -28,6 +29,7 @@ Solved:
 
 Done with help:
 ------
+[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem)(wrong understood the problem)  
 
 Solved, but need more attention/repetition:
 ------
