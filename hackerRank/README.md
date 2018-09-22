@@ -8,7 +8,8 @@ Solved:
 22.09    [BreakingTheRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem), 
          [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem),
          [JavaStaticInitializerBlock](https://www.hackerrank.com/challenges/java-static-initializer-block/problem),
-         [JavaDateAndTime](https://www.hackerrank.com/challenges/java-date-and-time/problem)  
+         [JavaDateAndTime](https://www.hackerrank.com/challenges/java-date-and-time/problem),
+         [JavaCurrencyFormatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)  
 21.09    [AppleAndOrange](https://www.hackerrank.com/challenges/apple-and-orange/problem),
          [MarsExploration](https://www.hackerrank.com/challenges/mars-exploration/problem),
          [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem),
