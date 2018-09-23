@@ -10,7 +10,8 @@ Solved:
          [PatternSyntaxChecker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem),
          [JavaBigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem),
          [JavaStringsIntroduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem),
-         [JavaPrimalityTest](https://www.hackerrank.com/challenges/java-primality-test/problem)  
+         [JavaPrimalityTest](https://www.hackerrank.com/challenges/java-primality-test/problem),
+         [JavaArraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)  
 22.09    [BreakingTheRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem), 
          [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem),
          [JavaStaticInitializerBlock](https://www.hackerrank.com/challenges/java-static-initializer-block/problem),
