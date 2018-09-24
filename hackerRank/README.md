@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
+24.09    [ValidUsernameRegEx](https://www.hackerrank.com/challenges/valid-username-checker/problem)  
 23.09    [BirthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem), 
          [JavaSubstring](https://www.hackerrank.com/challenges/java-substring/problem), 
          [PatternSyntaxChecker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem),
