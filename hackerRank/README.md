@@ -8,7 +8,8 @@ Solved:
 24.09    [ValidUsernameRegEx](https://www.hackerrank.com/challenges/valid-username-checker/problem),
          [JavaList](https://www.hackerrank.com/challenges/java-list/problem),
          [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem),
-         [BonAppétit](https://www.hackerrank.com/challenges/bon-appetit/problem)  
+         [BonAppétit](https://www.hackerrank.com/challenges/bon-appetit/problem),
+         [IceCreamParlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)  
 23.09    [BirthdayChocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem), 
          [JavaSubstring](https://www.hackerrank.com/challenges/java-substring/problem), 
          [PatternSyntaxChecker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem),
