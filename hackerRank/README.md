@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Sep 2018
 25.09    [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem),
-         [CatsAndAMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)  
+         [CatsAndAMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem),
+         [DayOfTheProgrammer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)  
 24.09    [ValidUsernameRegEx](https://www.hackerrank.com/challenges/valid-username-checker/problem),
          [JavaList](https://www.hackerrank.com/challenges/java-list/problem),
          [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem),
