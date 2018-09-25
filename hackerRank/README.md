@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
+25.09    [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem)  
 24.09    [ValidUsernameRegEx](https://www.hackerrank.com/challenges/valid-username-checker/problem),
          [JavaList](https://www.hackerrank.com/challenges/java-list/problem),
          [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem),
