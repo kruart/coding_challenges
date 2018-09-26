@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-26.09    [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem)  
+26.09    [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem),
+         [DrawingBook](https://www.hackerrank.com/challenges/drawing-book/problem)  
 25.09    [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem),
          [CatsAndAMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem),
          [DayOfTheProgrammer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)  
