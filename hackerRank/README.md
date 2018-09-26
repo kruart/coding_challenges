@@ -7,8 +7,9 @@ Solved:
 ##### Sep 2018
 26.09    [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem),
          [DrawingBook](https://www.hackerrank.com/challenges/drawing-book/problem),
-         [Java2DArray](https://www.hackerrank.com/challenges/java-2d-array/problem)
-         [JavaGenerics](https://www.hackerrank.com/challenges/java-generics/problem)  
+         [Java2DArray](https://www.hackerrank.com/challenges/java-2d-array/problem),
+         [JavaGenerics](https://www.hackerrank.com/challenges/java-generics/problem),
+         [JavaSubarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)  
 25.09    [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem),
          [CatsAndAMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem),
          [DayOfTheProgrammer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)  
