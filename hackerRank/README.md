@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
-27.09    [JavaMap](https://www.hackerrank.com/challenges/phone-book/problem)  
+27.09    [JavaMap](https://www.hackerrank.com/challenges/phone-book/problem),
+         [JavaHashSet](https://www.hackerrank.com/challenges/java-hashset/problem)  
 26.09    [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem),
          [DrawingBook](https://www.hackerrank.com/challenges/drawing-book/problem),
          [Java2DArray](https://www.hackerrank.com/challenges/java-2d-array/problem),
