@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
+28.09    [JavaSort](https://www.hackerrank.com/challenges/java-sort/problem)  
 27.09    [JavaMap](https://www.hackerrank.com/challenges/phone-book/problem),
          [JavaHashSet](https://www.hackerrank.com/challenges/java-hashset/problem)  
 26.09    [SockMerchant](https://www.hackerrank.com/challenges/sock-merchant/problem),
