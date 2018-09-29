@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Sep 2018
+29.09    [JavaExceptionHandlingTryCatch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)  
 28.09    [JavaSort](https://www.hackerrank.com/challenges/java-sort/problem),
          [JavaInterface](https://www.hackerrank.com/challenges/java-interface/problem),
          [JavaInstanceof](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem),
