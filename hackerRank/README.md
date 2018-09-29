@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Sep 2018
 29.09    [JavaExceptionHandlingTryCatch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem),
-         [JavaIterator](https://www.hackerrank.com/challenges/java-iterator/problem)  
+         [JavaIterator](https://www.hackerrank.com/challenges/java-iterator/problem),
+         [JavaVarargs](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)  
 28.09    [JavaSort](https://www.hackerrank.com/challenges/java-sort/problem),
          [JavaInterface](https://www.hackerrank.com/challenges/java-interface/problem),
          [JavaInstanceof](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem),
