@@ -9,7 +9,8 @@ Solved:
          [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem), 
          [JavaSingleton](https://www.hackerrank.com/challenges/java-singleton/problem),
          [JavaReflectionAttributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem), 
-         [CovariantReturnTypes](https://www.hackerrank.com/challenges/java-covariance/problem)  
+         [CovariantReturnTypes](https://www.hackerrank.com/challenges/java-covariance/problem),
+         [JavaComparator](https://www.hackerrank.com/challenges/java-comparator/problem)  
 29.09    [JavaExceptionHandlingTryCatch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem),
          [JavaIterator](https://www.hackerrank.com/challenges/java-iterator/problem),
          [JavaVarargs](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)  
