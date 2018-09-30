@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Sep 2018
 30.09    [JavaBitSet](https://www.hackerrank.com/challenges/java-bitset/problem),
-         [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem)  
+         [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem), 
+         [JavaSingleton](https://www.hackerrank.com/challenges/java-singleton/problem)  
 29.09    [JavaExceptionHandlingTryCatch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem),
          [JavaIterator](https://www.hackerrank.com/challenges/java-iterator/problem),
          [JavaVarargs](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)  
