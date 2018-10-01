@@ -7,7 +7,9 @@ Solved:
 ##### Oct 2018
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
          [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
-         [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem)
+         [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
+         [SayHelloWorldWithPython](https://www.hackerrank.com/challenges/py-hello-world/problem),
+         [PythonIfElse](https://www.hackerrank.com/challenges/py-if-else/problem)
 ##### Sep 2018
 30.09    [JavaBitSet](https://www.hackerrank.com/challenges/java-bitset/problem),
          [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem), 
