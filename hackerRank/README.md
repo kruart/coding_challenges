@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
-01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem)
+01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
+         [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 ##### Sep 2018
 30.09    [JavaBitSet](https://www.hackerrank.com/challenges/java-bitset/problem),
          [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem), 
