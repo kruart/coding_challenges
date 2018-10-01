@@ -11,7 +11,8 @@ Solved:
          [JavaReflectionAttributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem), 
          [CovariantReturnTypes](https://www.hackerrank.com/challenges/java-covariance/problem),
          [JavaComparator](https://www.hackerrank.com/challenges/java-comparator/problem),
-         [CanYouAccess](https://www.hackerrank.com/challenges/can-you-access/problem)  
+         [CanYouAccess](https://www.hackerrank.com/challenges/can-you-access/problem),
+         [PrimeChecker](https://www.hackerrank.com/challenges/prime-checker/problem)  
 29.09    [JavaExceptionHandlingTryCatch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem),
          [JavaIterator](https://www.hackerrank.com/challenges/java-iterator/problem),
          [JavaVarargs](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)  
