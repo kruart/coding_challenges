@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Oct 2018
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
-         [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
+         [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
+         [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem)
 ##### Sep 2018
 30.09    [JavaBitSet](https://www.hackerrank.com/challenges/java-bitset/problem),
          [JavaFactoryPattern](https://www.hackerrank.com/challenges/java-factory/problem), 
@@ -79,4 +80,5 @@ Done with help:
 
 Solved, but need more attention/repetition:
 ------
-[TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem)
+[TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem),
+[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem)(cool task)
