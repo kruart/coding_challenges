@@ -9,7 +9,8 @@ Solved:
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
          [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
          [JavaAnnotations](https://www.hackerrank.com/challenges/java-annotations/problem),
-         [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)  
+         [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem),
+         [PythonLoops](https://www.hackerrank.com/challenges/python-loops/problem)  
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
          [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
          [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
