@@ -8,7 +8,8 @@ Solved:
 02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
          [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
-         [JavaAnnotations](https://www.hackerrank.com/challenges/java-annotations/problem)  
+         [JavaAnnotations](https://www.hackerrank.com/challenges/java-annotations/problem),
+         [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)  
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
          [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
          [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
@@ -90,4 +91,5 @@ Done with help:
 Solved, but need more attention/repetition:
 ------
 [TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem),
-[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem)(cool task)
+[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
+[TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
