@@ -7,7 +7,8 @@ Solved:
 ##### Oct 2018
 02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
-         [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem)  
+         [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
+         [JavaAnnotations](https://www.hackerrank.com/challenges/java-annotations/problem)  
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
          [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
          [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
