@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
-02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem)
+02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
+         [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem)  
 01.10    [JavaRegEx](https://www.hackerrank.com/challenges/java-regex/problem),
          [JavaBigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem),
          [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem),
