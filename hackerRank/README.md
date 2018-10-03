@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
+03.10    [JavaLambda](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)  
 02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
          [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
