@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
-03.10    [JavaLambda](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)  
+03.10    [JavaLambda](https://www.hackerrank.com/challenges/java-lambda-expressions/problem),
+         [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem) 
 02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
          [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
@@ -90,7 +91,8 @@ Solved:
 Done with help:
 ------
 [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem)(wrong understood the problem),
-[JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem)  
+[JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
+[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem)  
 
 Solved, but need more attention/repetition:
 ------
