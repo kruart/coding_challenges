@@ -9,7 +9,8 @@ Solved:
          [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem),
          [ListComprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem),
          [FindingThePercentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem),
-         [StringSplitAndJoin](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)  
+         [StringSplitAndJoin](https://www.hackerrank.com/challenges/python-string-split-and-join/problem),
+         [WhatsYourName](https://www.hackerrank.com/challenges/whats-your-name/problem)  
 02.10    [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
          [JavaMD5](https://www.hackerrank.com/challenges/java-md5/problem),
          [JavaSHA256](https://www.hackerrank.com/challenges/sha-256/problem),
