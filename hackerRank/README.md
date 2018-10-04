@@ -5,7 +5,8 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
-04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem)  
+04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem),
+         [JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem)  
 03.10    [JavaLambda](https://www.hackerrank.com/challenges/java-lambda-expressions/problem),
          [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem),
          [ListComprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem),
@@ -97,7 +98,8 @@ Done with help:
 ------
 [PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem)(wrong understood the problem),
 [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
-[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem)  
+[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem),
+[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem)  
 
 Solved, but need more attention/repetition:
 ------
