@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
+04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem)  
 03.10    [JavaLambda](https://www.hackerrank.com/challenges/java-lambda-expressions/problem),
          [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem),
          [ListComprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem),
