@@ -7,12 +7,8 @@ public class CountingValleys {
         int seaLevel = 0;
 
         for (char c : s.toCharArray()) {
-            if (c == 'U') {
-                seaLevel++;
-                //if we traversed a valley and step up to sea level
-                if (seaLevel == 0) valleyCounts++;
-            }
-            else if (c == 'D') seaLevel--;
+            seaLevel = c == 'U' ? seaLevel+1 : seaLevel-1;
+            if (c == 'U' && seaLevel == 0) valleyCounts++; //if we traversed a valley and step up to sea level
         }
         return valleyCounts;
     }
