@@ -11,7 +11,8 @@ Solved:
          [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problemr),
          [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem),
          [Set Add](https://www.hackerrank.com/challenges/py-set-add/problem),
-         [Set Intersection Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem)  
+         [Set Intersection Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem),
+         [Set Union](https://www.hackerrank.com/challenges/py-set-union/problem)  
 04.10    [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem),
          [Java Deque](https://www.hackerrank.com/challenges/java-dequeue/problem),
          [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)  
