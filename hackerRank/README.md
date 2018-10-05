@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Oct 2018
 05.10    [VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem),
-         [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem)  
+         [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem),
+         [SwapCase](https://www.hackerrank.com/challenges/swap-case/problem)  
 04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem),
          [JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem),
          [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)  
