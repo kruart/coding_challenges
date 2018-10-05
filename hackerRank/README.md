@@ -9,7 +9,8 @@ Solved:
          [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem),
          [SwapCase](https://www.hackerrank.com/challenges/swap-case/problem),
          [TextAlignment](https://www.hackerrank.com/challenges/text-alignment/problemr),
-         [TextWrap](https://www.hackerrank.com/challenges/text-wrap/problem)  
+         [TextWrap](https://www.hackerrank.com/challenges/text-wrap/problem),
+         [SetAdd](https://www.hackerrank.com/challenges/py-set-add/problem)  
 04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem),
          [JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem),
          [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)  
