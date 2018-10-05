@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
+05.10    [VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)  
 04.10    [JavaPriorityQueue](https://www.hackerrank.com/challenges/java-priority-queue/problem),
          [JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem),
          [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)  
@@ -97,10 +98,11 @@ Solved:
 
 Done with help:
 ------
-[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem)(wrong understood the problem),
+[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem),
 [JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem),
 [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem),
-[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem)  
+[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem),
+[VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)  
 
 Solved, but need more attention/repetition:
 ------
