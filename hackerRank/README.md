@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Oct 2018
 06.10    [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem),
-         [ArraysDS](https://www.hackerrank.com/challenges/arrays-ds/problem)  
+         [ArraysDS](https://www.hackerrank.com/challenges/arrays-ds/problem),
+         [GetNodeValue](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)  
 05.10    [Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem),
          [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem),
          [Swap Case](https://www.hackerrank.com/challenges/swap-case/problem),
