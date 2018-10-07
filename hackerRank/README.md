@@ -6,7 +6,8 @@ Solved:
 ------
 ##### Oct 2018
 07.10    [Print The Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem),
-         [PythonMutations](https://www.hackerrank.com/challenges/python-mutations/problem)  
+         [Python Mutations](https://www.hackerrank.com/challenges/python-mutations/problem),
+         [Find A String](https://www.hackerrank.com/challenges/find-a-string/problem)  
 06.10    [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem),
          [Arrays DS](https://www.hackerrank.com/challenges/arrays-ds/problem),
          [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem),
