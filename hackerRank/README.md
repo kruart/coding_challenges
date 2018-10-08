@@ -5,6 +5,7 @@ HackerRank coding diary
 Solved:
 ------
 ##### Oct 2018
+08.10    [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 07.10    [Print The Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem),
          [Python Mutations](https://www.hackerrank.com/challenges/python-mutations/problem),
          [Find A String](https://www.hackerrank.com/challenges/find-a-string/problem)  
