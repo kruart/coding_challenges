@@ -22,7 +22,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 09.10  | [PrintInReverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | `Easy` | [Solution](data_structures/PrintInReverse/PrintInReverse.java) | [Solution](data_structures/PrintInReverse/print-in-reverse.py) | - | - | - |
-|        | [TheHurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | `Easy` | - | - | - | - | [Solution](algorithms/TheHurdleRace/TheHurdleRaceSc.scala) |
+|        | [TheHurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | `Easy` | [Solution](algorithms/TheHurdleRace/TheHurdleRaceSc.scala) | - | - | - | [Solution](algorithms/TheHurdleRace/TheHurdleRaceSc.scala) |
 | 08.10  | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | `Medium` | [Solution](data_structures/SparseArrays/SparseArrays.java) | [Solution](data_structures/SparseArrays/sparse-arrays.py)| [Solution](data_structures/SparseArrays/SparseArraysGroovy.groovy) | - | - |
 |        | [Nested Lists](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | `Easy`   | - | [Solution](python3_/nested-lists.py) | - | - | - |
 | 07.10  | [Print The Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | `Easy`   | [Solution](data_structures/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.java) | [Solution](data_structures/PrintTheElementsOfALinkedList/print-the-elements-of-a-linked-list.py) | - | - | - |
