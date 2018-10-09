@@ -125,7 +125,7 @@ Solved:
 |       | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | `Easy`   | [Solution](algorithms/FunnyString/FunnyString.java) | - | -  | - | - |
 |       | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | `Easy`   | [Solution](algorithms/AVeryBigSum/AVeryBigSum.java) | - | -  | - | - |
 |       | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | `Easy`   | [Solution](algorithms/DiagonalDifference/DiagonalDifference.java) | [Solution](algorithms/DiagonalDifference/diagonal_difference.py) | -  | - | - |
-|       | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | `Easy`   | [Solution](algorithms/Staircase/Staircase.java) | - | -  | - | - |
+|       | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | `Easy`   | [Solution](algorithms/Staircase/Staircase.java) | - | [Solution](algorithms/Staircase/StaircaseGroovy.groovy) | - | - |
 | 18.09 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | `Easy`   | [Solution](algorithms/SimpleArraySum/SimpleArraySum.java) | - | -  | [Solution](algorithms/SimpleArraySum/SimpleArraySum.js) | - |
 |       | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem) | `Easy`   | [Solution](algorithms/SuperReducedString/SuperReducedString.java) | - | -  | - | - |
 |       | [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem) | `Easy`   | [Solution](algorithms/CamelCase/CamelCase.java) | - | -  | - | - |
