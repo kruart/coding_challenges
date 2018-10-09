@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[//]: <> (106 - PrintInReverse)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-106_solved-orange.svg)
+[//]: <> (108 - 09.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-108_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 09.10  | [PrintInReverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | `Easy` | [Solution](data_structures/PrintInReverse/PrintInReverse.java) | [Solution](data_structures/PrintInReverse/print-in-reverse.py) | - | - | - |
 |        | [TheHurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | `Easy` | [Solution](algorithms/TheHurdleRace/TheHurdleRace.java) | [Solution](algorithms/TheHurdleRace/the-hurdle-race.py) | [Solution](algorithms/TheHurdleRace/TheHurdleRaceGr.groovy) | [Solution](algorithms/TheHurdleRace/TheHurdleRace.js) | [Solution](algorithms/TheHurdleRace/TheHurdleRaceSc.scala) |
+|        | [DesignerDoorMat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | `Easy` | - | [Solution](python3_/designer-door-mat.py) | - | - | - |
 | 08.10  | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | `Medium` | [Solution](data_structures/SparseArrays/SparseArrays.java) | [Solution](data_structures/SparseArrays/sparse-arrays.py)| [Solution](data_structures/SparseArrays/SparseArraysGroovy.groovy) | - | - |
 |        | [Nested Lists](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | `Easy`   | - | [Solution](python3_/nested-lists.py) | - | - | - |
 | 07.10  | [Print The Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | `Easy`   | [Solution](data_structures/PrintTheElementsOfALinkedList/PrintTheElementsOfALinkedList.java) | [Solution](data_structures/PrintTheElementsOfALinkedList/print-the-elements-of-a-linked-list.py) | - | - | - |
