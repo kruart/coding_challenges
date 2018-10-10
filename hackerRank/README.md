@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[//]: <> (108 - 09.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-109_solved-orange.svg)
+[StringFormatting]: <> (110 - 09.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-110_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python-7873ae.svg)
@@ -22,6 +22,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 10.10  | [StringValidators](https://www.hackerrank.com/challenges/string-validators/problem) | `Easy` | - | [Solution](python3_/string-validators.py) | - | - | - |
+|        | [StringFormatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | `Easy` | - | [Solution](python3_/string-formatting.py) | - | - | - |
 | 09.10  | [PrintInReverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | `Easy` | [Solution](data_structures/PrintInReverse/PrintInReverse.java) | [Solution](data_structures/PrintInReverse/print-in-reverse.py) | - | - | - |
 |        | [TheHurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | `Easy` | [Solution](algorithms/TheHurdleRace/TheHurdleRace.java) | [Solution](algorithms/TheHurdleRace/the-hurdle-race.py) | [Solution](algorithms/TheHurdleRace/TheHurdleRaceGr.groovy) | [Solution](algorithms/TheHurdleRace/TheHurdleRace.js) | [Solution](algorithms/TheHurdleRace/TheHurdleRaceSc.scala) |
 |        | [DesignerDoorMat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | `Easy` | - | [Solution](python3_/designer-door-mat.py) | - | - | - |
