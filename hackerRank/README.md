@@ -136,7 +136,7 @@ Solved:
 |       | [Camel Case](https://www.hackerrank.com/challenges/camelcase/problem) | `Easy`   | [Solution](algorithms/CamelCase/CamelCase.java) | - | -  | - | - |
 |       | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | `Easy`   | [Solution](algorithms/CompareTheTriplets/CompareTheTriplets.java) | [Solution](algorithms/CompareTheTriplets/compare_the_triplets.py) | [Solution](algorithms/CompareTheTriplets/CompareTheTripletsGroovy.groovy) | - | - |
 |       | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | `Easy`   | [Solution](algorithms/TwoCharacters/TwoCharacters.java) | - | - | - | - |
-| 17.09 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | `Easy`   | [Solution](algorithms/SolveMeFirst/SolveMeFirst.java) | [Solution](algorithms/SolveMeFirst/solve_me_first.py) | [Solution](algorithms/SolveMeFirst/SoveMeFirst.groovy) | - | - |
+| 17.09 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | `Easy`   | [Solution](algorithms/SolveMeFirst/SolveMeFirst.java) | [Solution](algorithms/SolveMeFirst/solve_me_first.py) | [Solution](algorithms/SolveMeFirst/SoveMeFirst.groovy) | - | [Solution](algorithms/SolveMeFirst/SolveMeFirstSc.scala) |
 
          
 
