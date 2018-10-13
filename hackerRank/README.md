@@ -92,7 +92,7 @@ Solved:
 |       | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | `Easy`   | [Solution](java_/JavaExceptionHandling.java) | - |  -  |  -  |  -  |
 | 27.09 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | `Easy`   | [Solution](java_/JavaMap.java) | - |  -  |  -  |  -  |
 |       | [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem) | `Easy`   | [Solution](java_/JavaHashset.java) | - |  -  |  -  |  -  |
-| 26.09 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | `Easy`   | [Solution](algorithms/SockMerchant/SockMerchant.java) | - |  -  |  -  |  -  |
+| 26.09 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | `Easy`   | [Solution](algorithms/SockMerchant/SockMerchant.java) | - |  -  |  -  |  [Solution](algorithms/SockMerchant/SockMerchantSc.scala)  |
 |       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | `Easy`   | [Solution](algorithms/DrawingBook/DrawingBook.java) | - |  -  |  -  |  -  |
 |       | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | `Easy`   | [Solution](java_/Java2DArray.java) | - |  -  |  -  |  -  |
 |       | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) | `Easy`   | [Solution](java_/JavaGenerics.java) | - |  -  |  -  |  -  |
