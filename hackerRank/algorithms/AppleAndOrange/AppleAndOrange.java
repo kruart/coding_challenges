@@ -17,6 +17,6 @@ public class AppleAndOrange {
     }
 
     public static void main(String[] args) {
-        countApplesAndOranges(7, 11, 5, 15, new int[]{-2, 2, 1}, new int[]{5, -6});
+        countApplesAndOranges(7, 11, 5, 15, new int[]{-2, 2, 1}, new int[]{5, -6}); //1 1
     }
 }
