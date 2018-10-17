@@ -2,6 +2,7 @@ package algorithms.FormingAMagicSquare
 
 import scala.math.abs
 
+// https://www.hackerrank.com/challenges/magic-square-forming/problem
 object FormingAMagicSquareSc {
   val possibleCombinations = Array(
     Array(Array(8, 1, 6), Array(3, 5, 7), Array(4, 9, 2)),// 1

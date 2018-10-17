@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[DesignerPDFViewer]: <> (111 - 13.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-111_solved-orange.svg)
+[Utopian Tree]: <> (113 - 17.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-113_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python-7873ae.svg)
@@ -22,6 +22,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 17.10  | [Forming A Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | `Medium` | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquare.java) | - | - | - | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquareSc.scala) |
+|        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | - | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
 | 13.10  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | `Easy` | - | - | - | - | [Solution](algorithms/DesignerPDFViewer/DesignerPDFViewerSc.scala) |
 | 10.10  | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | `Easy` | - | [Solution](python3_/string-validators.py) | - | - | - |
 |        | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | `Easy` | - | [Solution](python3_/string-formatting.py) | - | - | - |
