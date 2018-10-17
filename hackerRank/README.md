@@ -23,7 +23,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 17.10  | [Forming A Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | `Medium` | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquare.java) | - | - | - | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquareSc.scala) |
-|        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | - | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
+|        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | [Solution](algorithms/UtopianTree/UtopianTree.js) | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
 | 13.10  | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | `Easy` | - | - | - | - | [Solution](algorithms/DesignerPDFViewer/DesignerPDFViewerSc.scala) |
 | 10.10  | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | `Easy` | - | [Solution](python3_/string-validators.py) | - | - | - |
 |        | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | `Easy` | - | [Solution](python3_/string-formatting.py) | - | - | - |
