@@ -22,7 +22,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | [Solution](data_structures/LeftRotation/LeftRotation.java) | - | - | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
+| 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | [Solution](data_structures/LeftRotation/LeftRotation.java) | [Solution](data_structures/LeftRotation/left-rotation.py) | [Solution](data_structures/LeftRotation/LeftRotationGr.groovy) | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
 | 17.10  | [Forming A Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | `Medium` | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquare.java) | - | - | - | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquareSc.scala) |
 |        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | [Solution](algorithms/UtopianTree/UtopianTree.js) | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
 |        | [2D Array DS](https://www.hackerrank.com/challenges/2d-array/problem) | `Easy` | - | [Solution](data_structures/Array2DDS/array_2d_ds.py) | - | - | [Solution](data_structures/Array2DDS/Array2D_DS_Sc.scala) |
