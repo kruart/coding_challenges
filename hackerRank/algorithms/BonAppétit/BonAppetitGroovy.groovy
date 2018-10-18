@@ -1,5 +1,6 @@
 package algorithms.BonAppétit
 
+// https://www.hackerrank.com/challenges/bon-appetit/problem
 static def bonAppetit(List<Integer> bill, int k, int b) {
     def sum = (bill.sum() - bill[k]) / 2
     println(sum == b ? "Bon Appetit" : b - sum)

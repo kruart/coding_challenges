@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/counting-valleys/problem
 def countingValleys(n, s):
     sea_level = 0
     valley_count = 0

@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/mars-exploration/problem
 function marsExploration(s) {
     let pattern = "SOS";
     return [...Array(s.length).keys()]

@@ -1,5 +1,6 @@
 package java_;
 
+// https://www.hackerrank.com/challenges/java-interface/problem
 public class JavaInterface {
     public static void main(String[] args) {
         System.out.println(new MyCalculator().divisor_sum(6));

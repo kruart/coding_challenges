@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+// https://www.hackerrank.com/challenges/migratory-birds/problem
 public class MigratoryBirds {
     static int migratoryBirds(List<Integer> arr) {
         Map<Integer, Integer> birdsType = new HashMap<>();

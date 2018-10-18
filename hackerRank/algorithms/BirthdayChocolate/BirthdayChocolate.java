@@ -3,8 +3,8 @@ package algorithms.BirthdayChocolate;
 import java.util.Arrays;
 import java.util.List;
 
+// https://www.hackerrank.com/challenges/the-birthday-bar/problem
 public class BirthdayChocolate {
-
     static int birthday(List<Integer> s, int d, int m) {
         int count = 0;
         for (int i = m; i <= s.size(); i++) {

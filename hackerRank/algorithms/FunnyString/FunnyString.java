@@ -1,5 +1,6 @@
 package algorithms.FunnyString;
 
+// https://www.hackerrank.com/challenges/funny-string/problem
 public class FunnyString {
 //    way 1
     static String funnyString(String s) {

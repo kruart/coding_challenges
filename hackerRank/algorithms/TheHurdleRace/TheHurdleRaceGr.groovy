@@ -2,6 +2,7 @@ package algorithms.TheHurdleRace
 
 import static java.lang.System.in
 
+// https://www.hackerrank.com/challenges/the-hurdle-race/problem
 static int hurdleRace(k, List height) {
     return k - height.max() >= 0 ? 0 : height.max() - k
 }

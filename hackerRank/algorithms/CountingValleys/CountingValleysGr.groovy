@@ -1,5 +1,6 @@
 package algorithms.CountingValleys
 
+// https://www.hackerrank.com/challenges/counting-valleys/problem
 static int countingValleys(int n, String s) {
     int seaLevel = 0
 

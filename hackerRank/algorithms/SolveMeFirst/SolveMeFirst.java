@@ -2,6 +2,7 @@ package algorithms.SolveMeFirst;
 
 import java.util.Scanner;
 
+// https://www.hackerrank.com/challenges/solve-me-first/problem
 public class SolveMeFirst {
     private static int solveMeFirst(int a, int b) {
         // Hint: Type return a+b; below

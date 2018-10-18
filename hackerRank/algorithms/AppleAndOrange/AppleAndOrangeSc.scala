@@ -1,5 +1,6 @@
 package algorithms.AppleAndOrange
 
+// https://www.hackerrank.com/challenges/apple-and-orange/problem
 object AppleAndOrangeSc extends App {
   def countApplesAndOranges(s: Int, t: Int, a: Int, b: Int, apples: Array[Int], oranges: Array[Int]) {
     println(apples.count(v => a + v >= s && a + v <= t))

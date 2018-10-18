@@ -1,10 +1,9 @@
 package algorithms.CompareTheTriplets;
 
-//https://www.hackerrank.com/challenges/compare-the-triplets/problem
-
 import java.util.Arrays;
 import java.util.List;
 
+//https://www.hackerrank.com/challenges/compare-the-triplets/problem
 public class CompareTheTriplets {
     static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
         int aliceScore = 0;

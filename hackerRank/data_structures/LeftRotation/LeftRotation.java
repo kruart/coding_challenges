@@ -4,6 +4,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+// https://www.hackerrank.com/challenges/array-left-rotation/problem
 public class LeftRotation {
     private static final Scanner scanner = new Scanner(System.in);
 

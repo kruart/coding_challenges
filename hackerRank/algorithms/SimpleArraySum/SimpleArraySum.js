@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/simple-array-sum/problem
 function simpleArraySum(ar) {
     // way 1
     // let total = 0;

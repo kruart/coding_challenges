@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/diagonal-difference/problem
 def diagonal_difference(arr):
     return abs(sum([arr[i][i] - arr[i][len(arr)-i-1] for i in range(len(arr))]))
 

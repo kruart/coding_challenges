@@ -1,6 +1,7 @@
 package java_;
 
 import java.util.Scanner;
+
 // https://www.hackerrank.com/challenges/java-strings-introduction/problem
 public class JavaStringsIntroduction {
 

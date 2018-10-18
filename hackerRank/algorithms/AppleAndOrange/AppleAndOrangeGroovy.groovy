@@ -1,5 +1,6 @@
 package algorithms.AppleAndOrange
 
+// https://www.hackerrank.com/challenges/apple-and-orange/problem
 static def countApplesAndOranges(int s, int t, int a, int b, apples, oranges) {
     println(apples.count({a + it >= s && a + it <= t}))
     println(oranges.count({b + it >= s && b + it <= t}))

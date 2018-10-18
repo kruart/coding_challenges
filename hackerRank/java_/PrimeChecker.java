@@ -8,6 +8,7 @@ import java.util.Set;
 
 import static java.lang.System.in;
 
+// https://www.hackerrank.com/challenges/prime-checker/problem
 public class PrimeChecker {
     public static void main(String[] args) {
         try {

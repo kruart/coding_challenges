@@ -1,5 +1,6 @@
 package algorithms.SuperReducedString;
 
+// https://www.hackerrank.com/challenges/reduced-string/problem
 public class SuperReducedString {
 
     static String superReducedString(String s) {

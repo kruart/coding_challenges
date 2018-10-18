@@ -1,1 +1,0 @@
-### [CamelCase task description](https://www.hackerrank.com/challenges/camelcase/problem)

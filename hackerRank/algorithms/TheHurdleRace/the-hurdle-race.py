@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/the-hurdle-race/problem
 def hurdleRace(k, height):
     return max(max(height) - k, 0)
 

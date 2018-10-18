@@ -1,5 +1,6 @@
 package data_structures.ArraysDS
 
+// https://www.hackerrank.com/challenges/arrays-ds/problem
 static int[] reverseArray(a) {
     return a[-1..0]
 }

@@ -3,6 +3,7 @@ package java_;
 import java.util.BitSet;
 import java.util.Scanner;
 
+// https://www.hackerrank.com/challenges/java-bitset/problem
 public class JavaBitSet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,5 +1,6 @@
 package algorithms.SockMerchant
 
+// https://www.hackerrank.com/challenges/sock-merchant/problem
 object SockMerchantSc  {
 
   def sockMerchant(n: Int, ar: Array[Int]): Int = {

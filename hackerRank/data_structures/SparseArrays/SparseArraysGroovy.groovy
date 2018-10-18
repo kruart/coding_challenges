@@ -1,5 +1,6 @@
 package data_structures.SparseArrays
 
+// https://www.hackerrank.com/challenges/sparse-arrays/problem
 static matchingStrings(List strings, List queries) {
     def queryMap = queries.collectEntries({[(it): 0]})
 

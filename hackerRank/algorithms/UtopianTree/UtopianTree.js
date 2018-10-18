@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/utopian-tree/problem
 function utopianTree(n) {
     return [...Array(n).keys()].reduce((acc, value) => {
         return (value % 2 === 0 || value === 0) ? acc*2: acc+1;

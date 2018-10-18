@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 def breaking_records(scores):
     max_score = scores[0]
     min_score = scores[0]

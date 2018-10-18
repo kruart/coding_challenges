@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/array-left-rotation/problem
 if __name__ == '__main__':
     nd = input().split()
     n = int(nd[0])
