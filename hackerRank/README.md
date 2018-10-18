@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[Itertools.product()]: <> (118 - 18.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-118_solved-orange.svg)
+[Introduction to Sets]: <> (119 - 18.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-119_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -25,6 +25,7 @@ Solved:
 | 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | [Solution](data_structures/LeftRotation/LeftRotation.java) | [Solution](data_structures/LeftRotation/left-rotation.py) | [Solution](data_structures/LeftRotation/LeftRotationGr.groovy) | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
 |        | [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem) | `Easy` | - | [Solution](python3_/capitalize.py) | - | - | - |
 |        | [Itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | `Easy` | - | [Solution](python3_/itertools-product.py) | - | - | - |
+|        | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | `Easy` | - | [Solution](python3_/introduction-to-sets.py) | - | - | - |
 | 17.10  | [Forming A Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | `Medium` | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquare.java) | - | - | - | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquareSc.scala) |
 |        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | [Solution](algorithms/UtopianTree/UtopianTree.js) | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
 |        | [2D Array DS](https://www.hackerrank.com/challenges/2d-array/problem) | `Easy` | - | [Solution](data_structures/Array2DDS/array_2d_ds.py) | - | - | [Solution](data_structures/Array2DDS/Array2D_DS_Sc.scala) |
