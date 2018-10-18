@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[Maximum Element]: <> (115 - 17.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-115_solved-orange.svg)
+[Left Rotation]: <> (116 - 18.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-116_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -22,6 +22,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | - | - | - | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
 | 17.10  | [Forming A Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | `Medium` | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquare.java) | - | - | - | [Solution](algorithms/FormingAMagicSquare/FormingAMagicSquareSc.scala) |
 |        | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | `Easy` | - | - | - | [Solution](algorithms/UtopianTree/UtopianTree.js) | [Solution](algorithms/UtopianTree/UtopianTreeSc.scala) |
 |        | [2D Array DS](https://www.hackerrank.com/challenges/2d-array/problem) | `Easy` | - | [Solution](data_structures/Array2DDS/array_2d_ds.py) | - | - | [Solution](data_structures/Array2DDS/Array2D_DS_Sc.scala) |
