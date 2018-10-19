@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[ReverseAListFP]: <> (127 19.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-127_solved-orange.svg)
+[List Replication FP]: <> (128 19.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-128_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -26,6 +26,7 @@ Solved:
 |        | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | `Easy` | - | [Solution](python3_/calendar-module.py) | - | - | - |
 |        | [Set discard(), remove(), pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | `Easy` | - | [Solution](python3_/set-discard-remove-pop.py) | - | - | - |
 |        | [Reverse A List FP](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem) | `Easy` | - | - | - | - | [Solution](fp/ReverseAListFP.scala) |
+|        | [List Replication FP](https://www.hackerrank.com/challenges/fp-list-replication/problem) | `Easy` | - | - | - | - | [Solution](fp/ListReplicationFP.scala) |
 | 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | [Solution](data_structures/LeftRotation/LeftRotation.java) | [Solution](data_structures/LeftRotation/left-rotation.py) | [Solution](data_structures/LeftRotation/LeftRotationGr.groovy) | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
 |        | [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem) | `Easy` | - | [Solution](python3_/capitalize.py) | - | - | - |
 |        | [Itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | `Easy` | - | [Solution](python3_/itertools-product.py) | - | - | - |
