@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[Filter Array FP]: <> (123 18.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-123_solved-orange.svg)
+[Climbing the LeaderBoard]: <> (124 19.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-124_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -22,6 +22,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 19.10  | [Climbing the LeaderBoard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | `Medium` | [Solution](algorithms/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard.java) | - | - | - | - |
 | 18.10  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | `Easy` | [Solution](data_structures/LeftRotation/LeftRotation.java) | [Solution](data_structures/LeftRotation/left-rotation.py) | [Solution](data_structures/LeftRotation/LeftRotationGr.groovy) | - | [Solution](data_structures/LeftRotation/LeftRotationSc.scala) |
 |        | [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem) | `Easy` | - | [Solution](python3_/capitalize.py) | - | - | - |
 |        | [Itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | `Easy` | - | [Solution](python3_/itertools-product.py) | - | - | - |
