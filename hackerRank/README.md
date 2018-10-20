@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<!--[Sum Of Odd Elements FP]: <> (133 20.10)-->
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-133_solved-orange.svg)
+<!--[String Reductions FP]: <> (134 20.10)-->
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-134_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -27,6 +27,7 @@ Solved:
 |        | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | `Medium` | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorials.java) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsGr.groovy) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsSc.scala) |
 |        | [Filter Positions In A List FP](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem) | `Easy` | - | - | - | - | [Solution](fp/FilterPositionsInAListFP.scala) |
 |        | [Sum Of Odd Elements FP](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem) | `Easy` | - | - | - | - | [Solution](fp/SumOfOddElementsFP.scala) |
+|        | [String Reductions FP](https://www.hackerrank.com/challenges/string-reductions/problem) | `Easy` | - | - | - | - | [Solution](fp/StringReductionsFP.scala) |
 | 19.10  | [Climbing the LeaderBoard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | `Medium` | [Solution](algorithms/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard.java) | - | - | - | [Solution](algorithms/ClimbingTheLeaderBoard/ClimbingTheLeaderBoardSc.scala) |
 |        | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | `Easy` | - | [Solution](python3_/calendar-module.py) | - | - | - |
 |        | [Set discard(), remove(), pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | `Easy` | - | [Solution](python3_/set-discard-remove-pop.py) | - | - | - |
