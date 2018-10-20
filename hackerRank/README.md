@@ -4,8 +4,8 @@
     </a>
 </p>
 
-[List Replication FP]: <> (128 19.10)
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-128_solved-orange.svg)
+[List Length FP]: <> (129 20.10)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-129_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -22,6 +22,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 20.10  | [List Length FP](https://www.hackerrank.com/challenges/fp-list-length/problem) | `Easy` | - | - | - | - | [Solution](fp/ListLengthFP.scala) |
 | 19.10  | [Climbing the LeaderBoard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | `Medium` | [Solution](algorithms/ClimbingTheLeaderBoard/ClimbingTheLeaderBoard.java) | - | - | - | [Solution](algorithms/ClimbingTheLeaderBoard/ClimbingTheLeaderBoardSc.scala) |
 |        | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | `Easy` | - | [Solution](python3_/calendar-module.py) | - | - | - |
 |        | [Set discard(), remove(), pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | `Easy` | - | [Solution](python3_/set-discard-remove-pop.py) | - | - | - |
