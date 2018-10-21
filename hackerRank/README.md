@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<!--[String Reductions FP]: <> (134 20.10)-->
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-134_solved-orange.svg)
+<!--[Itertools.permutations()]: <> (136 21.10)-->
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-136_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 21.10  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | `Easy` | - | [Solution](python3_/symmetric-difference.py) | - | - | - |
+|        | [Itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | `Easy` | - | [Solution](python3_/itertools-permutations.py) | - | - | - |
 | 20.10  | [List Length FP](https://www.hackerrank.com/challenges/fp-list-length/problem) | `Easy` | - | - | - | - | [Solution](fp/ListLengthFP.scala) |
 |        | [Update List FP](https://www.hackerrank.com/challenges/fp-update-list/problem) | `Easy` | - | - | - | - | [Solution](fp/UpdateListFP.scala) |
 |        | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | `Medium` | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorials.java) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsGr.groovy) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsSc.scala) |
