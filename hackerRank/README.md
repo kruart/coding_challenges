@@ -22,6 +22,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 21.10  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | `Easy` | - | [Solution](python3_/symmetric-difference.py) | - | - | - |
 | 20.10  | [List Length FP](https://www.hackerrank.com/challenges/fp-list-length/problem) | `Easy` | - | - | - | - | [Solution](fp/ListLengthFP.scala) |
 |        | [Update List FP](https://www.hackerrank.com/challenges/fp-update-list/problem) | `Easy` | - | - | - | - | [Solution](fp/UpdateListFP.scala) |
 |        | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | `Medium` | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorials.java) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsGr.groovy) | - | [Solution](algorithms/ExtraLongFactorials/ExtraLongFactorialsSc.scala) |
