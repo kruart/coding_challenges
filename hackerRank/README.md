@@ -24,6 +24,7 @@ Solved:
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 22.10  | [Set.difference()](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | `Easy` | - | [Solution](python3_/set-difference.py) | - | - | - |
 |        | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | `Easy` | - | [Solution](python3_/collections-deque.py) | - | - | - |
+|        | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | `Easy` | - | - | - | - | [Solution](algorithms/AngryProfessor/AngryProfessorSc.scala) |
 | 21.10  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | `Easy` | - | [Solution](python3_/symmetric-difference.py) | - | - | - |
 |        | [Itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | `Easy` | - | [Solution](python3_/itertools-permutations.py) | - | - | - |
 |        | [Itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | `Easy` | - | [Solution](python3_/itertools-combinations.py) | - | - | - |
