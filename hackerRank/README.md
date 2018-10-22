@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<!-- Set.difference() (139 22.10) -->
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-139_solved-orange.svg)
+<!-- Collections.deque() (140 22.10) -->
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-140_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 22.10  | [Set.difference()](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | `Easy` | - | [Solution](python3_/set-difference.py) | - | - | - |
+|        | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | `Easy` | - | [Solution](python3_/collections-deque.py) | - | - | - |
 | 21.10  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | `Easy` | - | [Solution](python3_/symmetric-difference.py) | - | - | - |
 |        | [Itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | `Easy` | - | [Solution](python3_/itertools-permutations.py) | - | - | - |
 |        | [Itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | `Easy` | - | [Solution](python3_/itertools-combinations.py) | - | - | - |
