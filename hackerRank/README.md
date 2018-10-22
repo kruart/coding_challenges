@@ -4,8 +4,9 @@
     </a>
 </p>
 
-<!-- PrefixCompressionFP (144 22.10) -->
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-144_solved-orange.svg)
+<!-- Filter Elements FP (145 22.10) -->
+
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-145_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -28,6 +29,7 @@ Solved:
 |        | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | `Medium` | - | [Solution](algorithms/Encryption/encryption.py) | - | - | [Solution](algorithms/Encryption/EncryptionSc.scala) |
 |        | [Array Of N Elements FP](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem) | `Easy` | - | - | - | - | [Solution](fp/ArrayOfNElementsFP.scala) |
 |        | [Prefix Compression FP](https://www.hackerrank.com/challenges/prefix-compression/problem) | `Easy` | - | - | - | - | [Solution](fp/PrefixCompressionFP.scala) |
+|        | [Filter Elements FP](https://www.hackerrank.com/challenges/filter-elements/problem) | `Easy` | - | - | - | - | [Solution](fp/FilterElementsFP.scala) |
 | 21.10  | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | `Easy` | - | [Solution](python3_/symmetric-difference.py) | - | - | - |
 |        | [Itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | `Easy` | - | [Solution](python3_/itertools-permutations.py) | - | - | - |
 |        | [Itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | `Easy` | - | [Solution](python3_/itertools-combinations.py) | - | - | - |
