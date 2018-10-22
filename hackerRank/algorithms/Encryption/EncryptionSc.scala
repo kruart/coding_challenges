@@ -2,6 +2,7 @@ package algorithms.Encryption
 
 import scala.collection.mutable.ArrayBuffer
 
+// https://www.hackerrank.com/challenges/encryption/problem
 object EncryptionSc extends App {
   def encryption(s: String): String = {
     val str = s.replaceAll(" ", "")
