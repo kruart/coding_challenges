@@ -23,7 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 23.10  | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | `Easy` | - | - | - | - | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesSc.scala) |
+| 23.10  | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | `Easy` | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMovies.java) | [Solution](algorithms/BeautifulDaysAtTheMovies/beautiful-days-at-the-movies.py) | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesGr.groovy) | - | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesSc.scala) |
 | 22.10  | [Set.difference()](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | `Easy` | - | [Solution](python3_/set-difference.py) | - | - | - |
 |        | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | `Easy` | - | [Solution](python3_/collections-deque.py) | - | - | - |
 |        | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | `Easy` | [Solution](algorithms/AngryProfessor/AngryProfessor.java) | [Solution](algorithms/AngryProfessor/angry-professor.py) | [Solution](algorithms/AngryProfessor/AngryProfessorGr.groovy) | [Solution](algorithms/AngryProfessor/AngryProfessor.js) | [Solution](algorithms/AngryProfessor/AngryProfessorSc.scala) |
