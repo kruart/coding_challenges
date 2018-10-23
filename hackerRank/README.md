@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Fibonacci Numbers FP (148 22.10) -->
+<!-- Remove Duplicates FP (149 22.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-148_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-149_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -26,6 +26,7 @@ Solved:
 | 23.10  | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | `Easy` | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMovies.java) | [Solution](algorithms/BeautifulDaysAtTheMovies/beautiful-days-at-the-movies.py) | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesGr.groovy) | - | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesSc.scala) |
 |        | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | `Easy` | [Solution](algorithms/FindDigits/FindDigits.java) | - | - | - | [Solution](algorithms/FindDigits/FindDigitsSc.scala) |
 |        | [Fibonacci Numbers FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | `Easy` | - | - | - | - | [Solution](fp/FibonacciNumbersFP.scala) |
+|        | [Remove Duplicates FP](https://www.hackerrank.com/challenges/remove-duplicates/problem) | `Easy` | - | - | - | - | [Solution](fp/RemoveDuplicatesFP.scala) |
 | 22.10  | [Set.difference()](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | `Easy` | - | [Solution](python3_/set-difference.py) | - | - | - |
 |        | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | `Easy` | - | [Solution](python3_/collections-deque.py) | - | - | - |
 |        | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | `Easy` | [Solution](algorithms/AngryProfessor/AngryProfessor.java) | [Solution](algorithms/AngryProfessor/angry-professor.py) | [Solution](algorithms/AngryProfessor/AngryProfessorGr.groovy) | [Solution](algorithms/AngryProfessor/AngryProfessor.js) | [Solution](algorithms/AngryProfessor/AngryProfessorSc.scala) |
