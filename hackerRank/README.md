@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Equalize The Array (150 22.10) -->
+<!-- Functions Or Not (151 22.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-150_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-151_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -28,6 +28,7 @@ Solved:
 |        | [Fibonacci Numbers FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | `Easy` | - | - | - | - | [Solution](fp/FibonacciNumbersFP.scala) |
 |        | [Remove Duplicates FP](https://www.hackerrank.com/challenges/remove-duplicates/problem) | `Easy` | - | - | - | - | [Solution](fp/RemoveDuplicatesFP.scala) |
 |        | [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | `Easy` | [Solution](algorithms/EqualizeTheArray/EqualizeTheArray.java) | [Solution](algorithms/EqualizeTheArray/equalize-the-array.py) | [Solution](algorithms/EqualizeTheArray/EqualizeTheArrayGr.groovy) | - | [Solution](algorithms/EqualizeTheArray/EqualizeTheArraySc.scala) |
+|        | [Functions Or Not](https://www.hackerrank.com/challenges/functions-or-not/problem) | `Easy` | - | - | - | - | [Solution](fp/FunctionsOrNotFP.scala) |
 | 22.10  | [Set.difference()](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | `Easy` | - | [Solution](python3_/set-difference.py) | - | - | - |
 |        | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | `Easy` | - | [Solution](python3_/collections-deque.py) | - | - | - |
 |        | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | `Easy` | [Solution](algorithms/AngryProfessor/AngryProfessor.java) | [Solution](algorithms/AngryProfessor/angry-professor.py) | [Solution](algorithms/AngryProfessor/AngryProfessorGr.groovy) | [Solution](algorithms/AngryProfessor/AngryProfessor.js) | [Solution](algorithms/AngryProfessor/AngryProfessorSc.scala) |
