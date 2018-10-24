@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Collections.Counter() (153 24.10) -->
+<!-- String Mingling FP (154 24.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-153_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-154_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -25,6 +25,7 @@ Solved:
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 24.10  | [Bigger Is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | `Medium` | - | - | - | - | [Solution](algorithms/BiggerIsGreater/BiggerIsGreaterSc.scala) |
 |        | [Collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | `Easy` | - | [Solution](python3_/collections-counter.py) | - | - | - |
+|        | [String Mingling FP](https://www.hackerrank.com/challenges/string-mingling/problem) | `Easy` | - | - | - | - | [Solution](fp/StringMinglingFP.scala) |
 | 23.10  | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | `Easy` | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMovies.java) | [Solution](algorithms/BeautifulDaysAtTheMovies/beautiful-days-at-the-movies.py) | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesGr.groovy) | - | [Solution](algorithms/BeautifulDaysAtTheMovies/BeautifulDaysAtTheMoviesSc.scala) |
 |        | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | `Easy` | [Solution](algorithms/FindDigits/FindDigits.java) | - | - | - | [Solution](algorithms/FindDigits/FindDigitsSc.scala) |
 |        | [Fibonacci Numbers FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---fibonacci-numbers/problem) | `Easy` | - | - | - | - | [Solution](fp/FibonacciNumbersFP.scala) |
