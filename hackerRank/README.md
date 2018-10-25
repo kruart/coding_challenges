@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Computing The GCD FP (156 25.10) -->
+<!-- Compute The Perimeter Of A Polygon FP (157 25.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-156_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-157_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -25,6 +25,7 @@ Solved:
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
 | 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
 |        | [Computing The GCD FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputingTheGCDFP.scala) |
+|        | [Compute The Perimeter Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeThePerimeterOfAPolygonFP.scala) |
 | 24.10  | [Bigger Is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | `Medium` | - | - | - | - | [Solution](algorithms/BiggerIsGreater/BiggerIsGreaterSc.scala) |
 |        | [Collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | `Easy` | - | [Solution](python3_/collections-counter.py) | - | - | - |
 |        | [String Mingling FP](https://www.hackerrank.com/challenges/string-mingling/problem) | `Easy` | - | - | - | - | [Solution](fp/StringMinglingFP.scala) |
