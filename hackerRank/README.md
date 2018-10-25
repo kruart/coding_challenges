@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- String Mingling FP (154 24.10) -->
+<!-- String-o-Permute FP (155 25.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-154_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-155_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
 | 24.10  | [Bigger Is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | `Medium` | - | - | - | - | [Solution](algorithms/BiggerIsGreater/BiggerIsGreaterSc.scala) |
 |        | [Collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | `Easy` | - | [Solution](python3_/collections-counter.py) | - | - | - |
 |        | [String Mingling FP](https://www.hackerrank.com/challenges/string-mingling/problem) | `Easy` | - | - | - | - | [Solution](fp/StringMinglingFP.scala) |
