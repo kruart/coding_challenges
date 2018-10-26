@@ -23,7 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | - | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
+| 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | [Solution](algorithms/RepeatedString/RepeatedStringGr.groovy) | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
 | 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
 |        | [Computing The GCD FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputingTheGCDFP.scala) |
 |        | [Compute The Perimeter Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeThePerimeterOfAPolygonFP.scala) |
