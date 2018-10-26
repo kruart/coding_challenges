@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Insertion Sort Advanced Analysis (158 25.10) -->
+<!-- Repeated String (159 25.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-158_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-159_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | - | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
 | 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
 |        | [Computing The GCD FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputingTheGCDFP.scala) |
 |        | [Compute The Perimeter Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-perimeter-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeThePerimeterOfAPolygonFP.scala) |
@@ -202,3 +203,4 @@ Solved, but need more attention/repetition:
 [TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem) `Easy`,
 [JavaStack](https://www.hackerrank.com/challenges/java-stack/problem) `Medium`,
 [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
+[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
