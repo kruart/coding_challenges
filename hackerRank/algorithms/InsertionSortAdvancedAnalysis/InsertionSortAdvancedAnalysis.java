@@ -15,7 +15,7 @@ public class InsertionSortAdvancedAnalysis {
 
         int middle = (leftStart + rightEnd) / 2;
         mergesort(arr, temp, leftStart, middle);            //left
-        mergesort(arr, temp, middle+1, rightEnd);   //right
+        mergesort(arr, temp, middle+1, rightEnd);           //right
         mergeHalves(arr, temp, leftStart, rightEnd);        //halves
     }
 
