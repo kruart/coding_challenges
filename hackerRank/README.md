@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Compute The Area Of A Polygon FP (161 27.10) -->
+<!-- The Time In Words (162 27.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-161_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-162_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,7 +23,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 27.10  | [Compute The Area Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeTheAreaOfAPolygonFP.scala) |
+| 27.10  | [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | `Easy` | - | - | - | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsSc.scala) |
+|        | [Compute The Area Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeTheAreaOfAPolygonFP.scala) |
 |        | [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | `Easy` | - | [Solution](algorithms/CutTheSticks/cut-the-sticks.py) | - | - | [Solution](algorithms/CutTheSticks/CutTheSticksSc.scala) |
 | 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | [Solution](algorithms/RepeatedString/RepeatedStringGr.groovy) | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
 | 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
