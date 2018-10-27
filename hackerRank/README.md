@@ -23,7 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 27.10  | [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | `Easy` | - | - | - | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsSc.scala) |
+| 27.10  | [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | `Easy` | - | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsGr.groovy) | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsSc.scala) |
 |        | [Compute The Area Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeTheAreaOfAPolygonFP.scala) |
 |        | [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | `Easy` | - | [Solution](algorithms/CutTheSticks/cut-the-sticks.py) | - | - | [Solution](algorithms/CutTheSticks/CutTheSticksSc.scala) |
 | 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | [Solution](algorithms/RepeatedString/RepeatedStringGr.groovy) | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
