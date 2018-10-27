@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Repeated String (159 25.10) -->
+<!-- Cut The Sticks (160 27.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-159_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-160_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,6 +23,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 27.10  | [Cut The Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | `Easy` | - | - | - | - | [Solution](algorithms/CutTheSticks/CutTheSticksSc.scala) |
 | 26.10  | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/forum) | `Easy` | - | - | [Solution](algorithms/RepeatedString/RepeatedStringGr.groovy) | - | [Solution](algorithms/RepeatedString/RepeatedStringSc.scala) |
 | 25.10  | [String-o-Permute FP](https://www.hackerrank.com/challenges/string-o-permute/problem) | `Easy` | - | - | - | - | [Solution](fp/StringOPermuteFP.scala) |
 |        | [Computing The GCD FP](https://www.hackerrank.com/challenges/functional-programming-warmups-in-recursion---gcd/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputingTheGCDFP.scala) |
