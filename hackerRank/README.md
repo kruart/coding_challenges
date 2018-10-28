@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Exceptions (164 27.10) -->
+<!-- String Compression (165 27.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-164_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-165_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,7 +23,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 28.10  | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | `Easy` | - | [Solution](python3_/exceptions.py) | - | - | - |
+| 28.10  | [String Compression](https://www.hackerrank.com/challenges/string-compression/problem) | `Easy` | - | - | - | - | [Solution](fp/StringCompressionFP.scala) |
+|        | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | `Easy` | - | [Solution](python3_/exceptions.py) | - | - | - |
 | 27.10  | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | `Easy` | - | - | - | - | [Solution](algorithms/LibraryFine/LibraryFineSc.scala) |
 |        | [The Time In Words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | `Easy` | - | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsGr.groovy) | - | [Solution](algorithms/TheTimeInWords/TheTimeInWordsSc.scala) |
 |        | [Compute The Area Of A Polygon FP](https://www.hackerrank.com/challenges/lambda-march-compute-the-area-of-a-polygon/problem) | `Easy` | - | - | - | - | [Solution](fp/ComputeTheAreaOfAPolygonFP.scala) |
