@@ -10,9 +10,9 @@
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
-![Language](https://img.shields.io/badge/Language-Groovy-7873ae.svg)
+![Language](https://img.shields.io/badge/Language-Groovy_2.5.3-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Javascript-7873ae.svg)
-![Language](https://img.shields.io/badge/Language-Scala-7873ae.svg)
+![Language](https://img.shields.io/badge/Language-Scala_2.12.7-7873ae.svg)
   
 
 HackerRank coding diary
