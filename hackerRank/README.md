@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<!-- Collections.namedtuple() (167 27.10) -->
+<!-- The Power Sum (168 27.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-167_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-168_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,7 +23,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 29.10  | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | `Easy` | - | [Solution](python3_/collections-namedtuple.py) | - | - | - |
+| 29.10  | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | `Easy` | [Solution](algorithms/ThePowerSum/ThePowerSum.java) | - | - | - | - |
+|        | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | `Easy` | - | [Solution](python3_/collections-namedtuple.py) | - | - | - |
 | 28.10  | [Rotate String FP](https://www.hackerrank.com/challenges/string-compression/problem) | `Easy` | - | - | - | - | [Solution](fp/RotateStringFP.scala) |
 |        | [String Compression FP](https://www.hackerrank.com/challenges/rotate-string/problem) | `Easy` | - | - | - | - | [Solution](fp/StringCompressionFP.scala) |
 |        | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | `Easy` | - | [Solution](python3_/exceptions.py) | - | - | - |
