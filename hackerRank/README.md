@@ -4,7 +4,24 @@
     </a>
 </p>
 
-<!-- The Power Sum (168 27.10) -->
+<!--
+Done with help:
+------
+[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem) `Easy`,
+[JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem) `Medium`,
+[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem) `Medium`,
+[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem) `Medium`,
+[VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) `Medium`, 
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) `Medium` 
+
+Solved, but need more attention/repetition:
+------
+[TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem) `Easy`,
+[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem) `Medium`,
+[TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
+[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
+
+The Power Sum (168 27.10) -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-168_solved-orange.svg)
 
@@ -23,7 +40,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 29.10  | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | `Easy` | [Solution](algorithms/ThePowerSum/ThePowerSum.java) | - | - | - | - |
+| 29.10  | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | `Medium` | [Solution](algorithms/ThePowerSum/ThePowerSum.java) | - | [Solution](algorithms/ThePowerSum/ThePowerSumGr.groovy) | - | [Solution](algorithms/ThePowerSum/ThePowerSumSc.scala) |
 |        | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | `Easy` | - | [Solution](python3_/collections-namedtuple.py) | - | - | - |
 | 28.10  | [Rotate String FP](https://www.hackerrank.com/challenges/string-compression/problem) | `Easy` | - | - | - | - | [Solution](fp/RotateStringFP.scala) |
 |        | [String Compression FP](https://www.hackerrank.com/challenges/rotate-string/problem) | `Easy` | - | - | - | - | [Solution](fp/StringCompressionFP.scala) |
@@ -196,20 +213,3 @@ Solved:
 |       | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | `Easy`   | [Solution](algorithms/CompareTheTriplets/CompareTheTriplets.java) | [Solution](algorithms/CompareTheTriplets/compare_the_triplets.py) | [Solution](algorithms/CompareTheTriplets/CompareTheTripletsGroovy.groovy) | - | - |
 |       | [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem) | `Easy`   | [Solution](algorithms/TwoCharacters/TwoCharacters.java) | - | - | - | - |
 | 17.09 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | `Easy`   | [Solution](algorithms/SolveMeFirst/SolveMeFirst.java) | [Solution](algorithms/SolveMeFirst/solve_me_first.py) | [Solution](algorithms/SolveMeFirst/SoveMeFirst.groovy) | - | [Solution](algorithms/SolveMeFirst/SolveMeFirstSc.scala) |
-
-         
-
-Done with help:
-------
-[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem) `Easy`,
-[JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem) `Medium`,
-[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem) `Medium`,
-[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem) `Medium`,
-[VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) `Medium`  
-
-Solved, but need more attention/repetition:
-------
-[TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem) `Easy`,
-[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem) `Medium`,
-[TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
-[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
