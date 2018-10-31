@@ -21,9 +21,9 @@ Solved, but need more attention/repetition:
 [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
 [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
 
-Save The Prisoner (170 31.10) -->
+Jumping On The Clouds Revisited (171 31.10) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-170_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-171_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 31.10  | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | `Easy` | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.java) | [Solution](algorithms/SaveThePrisoner/save-the-prisoner.py) | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerGr.groovy) | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.js) | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerSc.scala) |
+| 31.10  | [Jumping On The Clouds Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | `Easy` | [Solution](algorithms/JumpingOnTheCloudsRevisited/JumpingOnTheCloudsRevisited.java) | - | - | - | [Solution](algorithms/JumpingOnTheCloudsRevisited/JumpingOnTheCloudsRevisitedSc.scala) |
+|        | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | `Easy` | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.java) | [Solution](algorithms/SaveThePrisoner/save-the-prisoner.py) | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerGr.groovy) | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.js) | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerSc.scala) |
 | 29.10  | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | `Easy` | - | - | - | - | [Solution](algorithms/SequenceEquation/SequenceEquationSc.scala) |
 |        | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | `Medium` | [Solution](algorithms/ThePowerSum/ThePowerSum.java) | - | [Solution](algorithms/ThePowerSum/ThePowerSumGr.groovy) | - | [Solution](algorithms/ThePowerSum/ThePowerSumSc.scala) |
 |        | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | `Easy` | - | [Solution](python3_/collections-namedtuple.py) | - | - | - |
