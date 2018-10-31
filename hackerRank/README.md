@@ -40,7 +40,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 31.10  | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | `Easy` | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.java) | - | - | - | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerSc.scala) |
+| 31.10  | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | `Easy` | [Solution](algorithms/SaveThePrisoner/SaveThePrisoner.java) | - | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerGr.groovy) | - | [Solution](algorithms/SaveThePrisoner/SaveThePrisonerSc.scala) |
 | 29.10  | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | `Easy` | - | - | - | - | [Solution](algorithms/SequenceEquation/SequenceEquationSc.scala) |
 |        | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) | `Medium` | [Solution](algorithms/ThePowerSum/ThePowerSum.java) | - | [Solution](algorithms/ThePowerSum/ThePowerSumGr.groovy) | - | [Solution](algorithms/ThePowerSum/ThePowerSumSc.scala) |
 |        | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | `Easy` | - | [Solution](python3_/collections-namedtuple.py) | - | - | - |
