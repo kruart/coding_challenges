@@ -37,6 +37,12 @@ HackerRank coding diary
 
 Solved:
 ------
+
+##### Oct 2018
+| Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
+| :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 01.11  | [DefaultDict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | `Easy` | - | [Solution](python3_/defaultdict.py) | - | - | - |
+
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
