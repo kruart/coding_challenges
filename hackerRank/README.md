@@ -21,9 +21,9 @@ Solved, but need more attention/repetition:
 [TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
 [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
 
-Jumping On The Clouds Revisited (171 31.10) -->
+Collections.OrderedDict() (173 01.11) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-171_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-173_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -41,7 +41,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 01.11  | [DefaultDict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | `Easy` | - | [Solution](python3_/defaultdict.py) | - | - | - |
+| 01.11  | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | `Easy` | - | [Solution](python3_/collections-OrderedDict.py) | - | - | - |
+|        | [DefaultDict](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | `Easy` | - | [Solution](python3_/defaultdict.py) | - | - | - |
 
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
