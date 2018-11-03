@@ -1,5 +1,6 @@
 package algorithms.ThePowerSum
 
+// https://www.hackerrank.com/challenges/the-power-sum/problem
 def powerSum(int X, int N, int num = 1) {
     def numToN = (int) Math.pow(num, N)
     if (numToN > X) 0

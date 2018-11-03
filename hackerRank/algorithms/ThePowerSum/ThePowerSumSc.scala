@@ -1,5 +1,6 @@
 package algorithms.ThePowerSum
 
+// https://www.hackerrank.com/challenges/the-power-sum/problem
 object ThePowerSumSc {
   def powerSum(X: Int, N: Int, num: Int = 1): Int = {
     val numToN = math.pow(num, N).toInt
