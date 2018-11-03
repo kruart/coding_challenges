@@ -12,7 +12,8 @@ Done with help:
 [Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem) `Medium`,
 [JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem) `Medium`,
 [VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) `Medium`, 
-[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) `Medium` 
+[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) `Medium`,
+[Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) `Medium`, 
 
 Solved, but need more attention/repetition:
 ------
@@ -24,9 +25,9 @@ Solved, but need more attention/repetition:
 [63]Sep2018
 [108]Oct2018
 [5]Nov2018
-Sequence Full Of Colors FP (176 03.11) -->
+Non Divisible Subset (177 03.11) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-176_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-177_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -44,7 +45,8 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 03.11  | [Sequence Full Of Colors FP](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | `Easy` | - | - | - | - | [Solution](fp/SequenceFullOfColorsFP.scala) |
+| 03.11  | [Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | `Medium` | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubset.java) | - | - | - | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubsetSc.scala) |
+|        | [Sequence Full Of Colors FP](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | `Easy` | - | - | - | - | [Solution](fp/SequenceFullOfColorsFP.scala) |
 |        | [The Sums Of Powers FP](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem) | `Easy` | - | - | - | - | [Solution](fp/TheSumsOfPowersFP.scala) |
 | 02.11  | [Pascal's Triangle FP](https://www.hackerrank.com/challenges/pascals-triangle/problem) | `Easy` | - | - | - | - | [Solution](fp/PascalsTriangleFP.scala) |
 | 01.11  | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | `Easy` | - | [Solution](python3_/collections-OrderedDict.py) | - | - | - |
