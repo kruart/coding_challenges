@@ -45,7 +45,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 03.11  | [Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | `Medium` | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubset.java) | - | - | - | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubsetSc.scala) |
+| 03.11  | [Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | `Medium` | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubset.java) | - | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubsetGr.groovy) | - | [Solution](algorithms/NonDivisibleSubset/NonDivisibleSubsetSc.scala) |
 |        | [Sequence Full Of Colors FP](https://www.hackerrank.com/challenges/sequence-full-of-colors/problem) | `Easy` | - | - | - | - | [Solution](fp/SequenceFullOfColorsFP.scala) |
 |        | [The Sums Of Powers FP](https://www.hackerrank.com/challenges/functional-programming-the-sums-of-powers/problem) | `Easy` | - | - | - | - | [Solution](fp/TheSumsOfPowersFP.scala) |
 | 02.11  | [Pascal's Triangle FP](https://www.hackerrank.com/challenges/pascals-triangle/problem) | `Easy` | - | - | - | - | [Solution](fp/PascalsTriangleFP.scala) |
