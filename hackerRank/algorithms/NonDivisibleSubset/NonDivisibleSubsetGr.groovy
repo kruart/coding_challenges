@@ -3,9 +3,9 @@ package algorithms.NonDivisibleSubset
 import static java.lang.Math.max
 import static java.lang.Math.min
 
+// https://www.hackerrank.com/challenges/non-divisible-subset/problem
 def sc = new Scanner(System.in)
-def n = sc.nextInt()
-def k = sc.nextInt()
+def (n, k) = sc.nextLine().split(" ")*.toInteger()
 
 def l = (1..n).collect({sc.nextInt()})
 println(nonDivisibleSubset(k, l))
