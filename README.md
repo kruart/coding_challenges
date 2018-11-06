@@ -25,10 +25,10 @@ Solved, but need more attention/repetition:
 
 [63]Sep2018
 [108]Oct2018
-[13]Nov2018
-Pentagonal Numbers FP (184 04.11) -->
+[14]Nov2018
+Substring Searching FP (KMP algorithm) (185 04.11) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-184_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-185_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -46,7 +46,8 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 06.11  | [Pentagonal Numbers FP](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | - | - | - | - | [Solution](hackerRank/fp/PentagonalNumbersFP.scala) |
+| 06.11  | [Substring Searching FP (KMP algorithm)](https://www.hackerrank.com/challenges/kmp-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/SubstringSearchingFP.scala) |
+|        | [Pentagonal Numbers FP](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | - | - | - | - | [Solution](hackerRank/fp/PentagonalNumbersFP.scala) |
 |        | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | - | [Solution](hackerRank/python3_/check-strict-superset.py) | - | - | - |
 | 04.11  | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | - | [Solution](hackerRank/python3_/check-subset.py) | - | - | - |
 |        | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | - | [Solution](hackerRank/python3_/integers-come-in-all-sizes.py) | - | - | - |
