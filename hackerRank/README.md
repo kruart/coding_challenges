@@ -25,9 +25,9 @@ Solved, but need more attention/repetition:
 [63]Sep2018
 [108]Oct2018
 [5]Nov2018
-Check Subset (182 04.11) -->
+Check Strict Superset (183 04.11) -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-182_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-183_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -45,6 +45,7 @@ Solved:
 ##### Oct 2018
 | Date   | Challenge                           | Level    | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 06.11  | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | `Easy` | - | [Solution](python3_/check-strict-superset.py) | - | - | - |
 | 04.11  | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | `Easy` | - | [Solution](python3_/check-subset.py) | - | - | - |
 |        | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | `Easy` | - | [Solution](python3_/integers-come-in-all-sizes.py) | - | - | - |
 |        | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | `Easy` | - | [Solution](python3_/set-mutations.py) | - | - | - |
