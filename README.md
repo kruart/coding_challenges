@@ -6,29 +6,13 @@
 <p align="center">This repository contains solving challenges from hackerrank.com. </p><br>
 
 <!--
-Done with help:
-------
-[PickingNumbers](https://www.hackerrank.com/challenges/picking-numbers/problem) `Easy`,
-[JavaRegex2DuplicateWords](https://www.hackerrank.com/challenges/duplicate-word/problem) `Medium`,
-[Java1DArray](https://www.hackerrank.com/challenges/java-1d-array/problem) `Medium`,
-[JavaDeque](https://www.hackerrank.com/challenges/java-dequeue/problem) `Medium`,
-[VisitorPattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) `Medium`, 
-[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem) `Medium`,
-[Non Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) `Medium`, 
-
-Solved, but need more attention/repetition:
-------
-[TwoCharacters](https://www.hackerrank.com/challenges/two-characters/problem) `Easy`,
-[JavaStack](https://www.hackerrank.com/challenges/java-stack/problem) `Medium`,
-[TagContentExtractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) `Medium`
-[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) `Advanced`
-
 [63]Sep2018
 [108]Oct2018
 [14]Nov2018
-Substring Searching FP (KMP algorithm) (185 04.11) -->
+Huge GCD FP (KMP algorithm) (186 04.11) 
+-->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-185_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-186_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -46,6 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 07.11  | [Huge GCD FP](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/HugeGCDFP.scala) |
 | 06.11  | [Substring Searching FP (KMP algorithm)](https://www.hackerrank.com/challenges/kmp-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/SubstringSearchingFP.scala) |
 |        | [Pentagonal Numbers FP](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | - | - | - | - | [Solution](hackerRank/fp/PentagonalNumbersFP.scala) |
 |        | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | - | [Solution](hackerRank/python3_/check-strict-superset.py) | - | - | - |
