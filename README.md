@@ -30,7 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 10.11  | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | - | - | [Solution](hackerRank/algorithms/StrongPassword/StrongPasswordGr.groovy) | - | - |
+| 10.11  | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | - | [Solution](hackerRank/algorithms/StrongPassword/strong-password.py) | [Solution](hackerRank/algorithms/StrongPassword/StrongPasswordGr.groovy) | - | - |
 | 07.11  | [Huge GCD FP](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/HugeGCDFP.scala) |
 | 06.11  | [Substring Searching FP (KMP algorithm)](https://www.hackerrank.com/challenges/kmp-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/SubstringSearchingFP.scala) |
 |        | [Pentagonal Numbers FP](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | - | - | - | - | [Solution](hackerRank/fp/PentagonalNumbersFP.scala) |
