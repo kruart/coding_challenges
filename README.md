@@ -9,10 +9,10 @@
 [63]Sep2018
 [108]Oct2018
 [14]Nov2018
-Huge GCD FP (KMP algorithm) (186 04.11) 
+Strong Password (187 10.11) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-186_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-187_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -30,6 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 10.11  | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | - | - | [Solution](hackerRank/algorithms/StrongPassword/StrongPasswordGr.groovy) | - | - |
 | 07.11  | [Huge GCD FP](https://www.hackerrank.com/challenges/huge-gcd-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/HugeGCDFP.scala) |
 | 06.11  | [Substring Searching FP (KMP algorithm)](https://www.hackerrank.com/challenges/kmp-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/SubstringSearchingFP.scala) |
 |        | [Pentagonal Numbers FP](https://www.hackerrank.com/challenges/pentagonal-numbers/problem) | - | - | - | - | [Solution](hackerRank/fp/PentagonalNumbersFP.scala) |
