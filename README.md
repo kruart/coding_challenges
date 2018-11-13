@@ -30,7 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 13.11  | [Alice And Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGame.java) | - | - | - | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGameSc.scala) |
+| 13.11  | [Alice And Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGame.java) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/alice-and-bobs-silly-game.py) | - | - | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGameSc.scala) |
 |        | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | - | [Solution](hackerRank/python3_/python-evaluation.py) | - | - | - |
 | 10.11  | [Input()](https://www.hackerrank.com/challenges/input/problem) | - | [Solution](hackerRank/python3_/input.py) | - | - | - |
 |        | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | [Solution](hackerRank/algorithms/BigSorting/BigSorting.java) | - | - | - | [Solution](hackerRank/algorithms/BigSorting/BigSortingSc.scala) |
