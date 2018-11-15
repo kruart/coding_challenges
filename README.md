@@ -9,10 +9,10 @@
 [63]Sep2018
 [108]Oct2018
 [18]Nov2018
-Alice And Bob's Silly Game (191 13.11) 
+Zipped (192 15.11) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-191_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-192_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -30,6 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 15.11  | [Zipped](https://www.hackerrank.com/challenges/zipped/problem) | - | [Solution](hackerRank/python3_/zipped.py) | - | - | - |
 | 13.11  | [Alice And Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGame.java) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/alice-and-bobs-silly-game.py) | - | - | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGameSc.scala) |
 |        | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | - | [Solution](hackerRank/python3_/python-evaluation.py) | - | - | - |
 | 10.11  | [Input()](https://www.hackerrank.com/challenges/input/problem) | - | [Solution](hackerRank/python3_/input.py) | - | - | - |
