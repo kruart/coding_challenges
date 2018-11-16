@@ -9,14 +9,14 @@
 [63]Sep2018
 [108]Oct2018
 [18]Nov2018
-Athlete Sort (193 15.11) 
+Fibonacci FP (194 15.11) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-193_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-194_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
-![Language](https://img.shields.io/badge/Language-Groovy_2.5.3-7873ae.svg)
+![Language](https://img.shields.io/badge/Language-Groovy_2.5.4-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Javascript-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Scala_2.12.7-7873ae.svg)
   
@@ -30,6 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 16.11  | [Fibonacci FP](https://www.hackerrank.com/challenges/fibonacci-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/FibonacciFP.scala) |
 | 15.11  | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | - | [Solution](hackerRank/python3_/athlete-sort.py) | - | - | - |
 |        | [Zipped](https://www.hackerrank.com/challenges/zipped/problem) | - | [Solution](hackerRank/python3_/zipped.py) | - | - | - |
 | 13.11  | [Alice And Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game/problem) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGame.java) | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/alice-and-bobs-silly-game.py) | - | - | [Solution](hackerRank/algorithms/AliceAndBobsSillyGame/AliceAndBobsSillyGameSc.scala) |
