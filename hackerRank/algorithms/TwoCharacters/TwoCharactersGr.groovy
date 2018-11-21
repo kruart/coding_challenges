@@ -1,21 +1,21 @@
 package algorithms.TwoCharacters
 
 // https://www.hackerrank.com/challenges/two-characters/problem
-def static alternate(String s) {
+static alternate(String s) {
     Set<String> pairs = uniquePairs(s.toSet())
-    return maxLength(pairs, s)
+    maxLength(pairs, s)
 }
 
-def static uniquePairs(Set elements) {
-    return [elements, elements].combinations()
+static uniquePairs(Set<String> elements) {
+    [elements, elements].combinations()
             .findAll { a, b -> a < b }
-            .collect({it.join("")})
+            *.join('')
 }
 
-def static maxLength(Set pairs, String s) {
-    pairs.collect { s.replaceAll("[^$it]", "") }
+static maxLength(Set<String> pairs, String s) {
+    pairs.collect { s.replaceAll("[^$it]", '') }
             .findAll { it.matches('^(.)((?!\\1).\\1)*(?!\\1).?$') }
-            .collect { it.length() }
+            *.length()  // .collect { it.length() }
             .max() ?: 0
 }
 

@@ -8,7 +8,7 @@ object TwoCharactersSc {
     s.distinct.combinations(2)
       .map(it => s.replaceAll(s"[^$it]", ""))
 //      .filter(str => (2 until str.length).forall(it => str(it - 2) == str(it)))
-      .filter(str => str.matches("^(.)((?!\\1).\\1)*(?!\\1).?$"))
+      .filter(_.matches("^(.)((?!\\1).\\1)*(?!\\1).?$"))
       .map(_.length)
       .reduceOption(_ max _).getOrElse(0)
   }
