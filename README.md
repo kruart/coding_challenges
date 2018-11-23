@@ -8,11 +8,11 @@
 <!--
 [63]Sep2018
 [108]Oct2018
-[26]Nov2018
-Any Or All (197 15.11) 
+[27]Nov2018
+Evaluating e^x FP (198 23.11) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-197_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-198_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -30,7 +30,8 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 20.11  | [Any Or All](https://www.hackerrank.com/challenges/any-or-all/problem) | - | [Solution](hackerRank/python3_/any-or-all.py) | - | - | - |
+| 23.11  | [Evaluating e^x FP](https://www.hackerrank.com/challenges/eval-ex/problem) | - | - | - | - | - |
+| 20.11  | [Any Or All](https://www.hackerrank.com/challenges/any-or-all/problem) | - | [Solution](hackerRank/python3_/any-or-all.py) | - | - | [Solution](hackerRank/fp/Evaluating_exFP.scala) |
 | 18.11  | [Compress The String](https://www.hackerrank.com/challenges/compress-the-string/problem) | - | [Solution](hackerRank/python3_/compress-the-string.py) | - | - | - |
 |        | [Arrays](https://www.hackerrank.com/challenges/np-arrays/problem) | - | [Solution](hackerRank/python3_/arrays.py) | - | - | - |
 | 16.11  | [Fibonacci FP](https://www.hackerrank.com/challenges/fibonacci-fp/problem) | - | - | - | - | [Solution](hackerRank/fp/FibonacciFP.scala) |
