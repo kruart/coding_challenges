@@ -30,7 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 30.11  | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | - | - | - | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsSc.scala) |
+| 30.11  | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | - | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsGr.groovy) | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsSc.scala) |
 | 25.11  | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | - | [Solution](hackerRank/python3_/reduce-function.py) | - | - | - |
 |        | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | - | [Solution](hackerRank/python3_/mod-divmod.py) | - | - | - |
 |        | [Itertools.combinations_with_replacement](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | - | [Solution](hackerRank/python3_/itertools-combinations-with-replacement.py) | - | - | - |
