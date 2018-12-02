@@ -9,10 +9,10 @@
 [63]Sep2018
 [108]Oct2018
 [31]Nov2018
-Jumping On The Clouds (202 30.11) 
+The Captain's Room (203 02.12) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-202_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-203_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -30,6 +30,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 02.12  | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | - | [Solution](hackerRank/python3_/the-captains-room.py) | - | - | - |
 | 30.11  | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | - | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsGr.groovy) | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsSc.scala) |
 | 25.11  | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | - | [Solution](hackerRank/python3_/reduce-function.py) | - | - | - |
 |        | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | - | [Solution](hackerRank/python3_/mod-divmod.py) | - | - | - |
