@@ -24,6 +24,8 @@ The Captain's Room (203 02.12)
 HackerRank coding diary
 =====  
 
+[Linux Shell Challenges](/hackerRank/linux_shell/)
+
 Solved:
 ------
 
