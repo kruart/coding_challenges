@@ -9,10 +9,10 @@
 [63]Sep2018
 [108]Oct2018
 [31]Nov2018
-The Captain's Room (203 02.12) 
+Merge the Tools! (204 02.12) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-203_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challanges-204_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -23,8 +23,12 @@ The Captain's Room (203 02.12)
 
 HackerRank coding diary
 =====  
-
-[Linux Shell Challenges](/hackerRank/linux_shell)
+[Algorithms Challenges](hackerRank/algorithms)  
+[Data Structures Challenges](hackerRank/data_structures)  
+[Functional Programming Challenges](hackerRank/fp)  
+[Java Challenges](hackerRank/java_)  
+[Linux Shell Challenges](hackerRank/linux_shell)  
+[Python Challenges](hackerRank/python3_)  
 
 Solved:
 ------
@@ -32,6 +36,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 07.12  | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | - | [Solution](hackerRank/python3_/merge-the-tools.py) | - | - | - |
 | 02.12  | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | - | [Solution](hackerRank/python3_/the-captains-room.py) | - | - | - |
 | 30.11  | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | - | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsGr.groovy) | - | [Solution](hackerRank/algorithms/JumpingOnTheClouds/JumpingOnTheCloudsSc.scala) |
 | 25.11  | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | - | [Solution](hackerRank/python3_/reduce-function.py) | - | - | - |
