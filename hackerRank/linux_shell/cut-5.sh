@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# For each line in the input, print the first three fields.
 # https://www.hackerrank.com/challenges/text-processing-cut-5/problem
 while read str
 do
