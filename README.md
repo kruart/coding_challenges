@@ -36,7 +36,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
-| 14.12  | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | - | - | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBallsGr.groovy) | - | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBallsSc.scala) |
+| 14.12  | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBalls.java) | - | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBallsGr.groovy) | - | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBallsSc.scala) |
 | 11.12  | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | - | [Solution](hackerRank/python3_/map-and-lambda-function.py) | - | - | - |
 | 07.12  | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | - | [Solution](hackerRank/python3_/merge-the-tools.py) | - | - | - |
 | 02.12  | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | - | [Solution](hackerRank/python3_/the-captains-room.py) | - | - | - |
