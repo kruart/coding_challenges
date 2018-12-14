@@ -197,7 +197,7 @@ Solved:
 |       | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | [Solution](hackerRank/java_/JavaExceptionHandling.java) | - |  -  |  -  |  -  |
 | 27.09 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | [Solution](hackerRank/java_/JavaMap.java) | - |  -  |  -  |  -  |
 |       | [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem) | [Solution](hackerRank/java_/JavaHashset.java) | - |  -  |  -  |  -  |
-| 26.09 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](hackerRank/algorithms/SockMerchant/SockMerchant.java) | - |  -  |  -  |  [Solution](hackerRank/algorithms/SockMerchant/SockMerchantSc.scala)  |
+| 26.09 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](hackerRank/algorithms/SockMerchant/SockMerchant.java) | - |  -  | [Solution](hackerRank/algorithms/SockMerchant/SockMerchant.js) |  [Solution](hackerRank/algorithms/SockMerchant/SockMerchantSc.scala)  |
 |       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](hackerRank/algorithms/DrawingBook/DrawingBook.java) | - |  -  |  -  |  -  |
 |       | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | [Solution](hackerRank/java_/Java2DArray.java) | - |  -  |  -  |  -  |
 |       | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) | [Solution](hackerRank/java_/JavaGenerics.java) | - |  -  |  -  |  -  |
