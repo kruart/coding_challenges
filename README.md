@@ -9,10 +9,10 @@
 [63]Sep2018
 [108]Oct2018
 [31]Nov2018
-Merge the Tools! (205 02.12) 
+Organizing Containers of Balls (206 02.12) 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challenges-205_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challenges-206_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -36,6 +36,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:|
+| 14.12  | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | - | - | - | - | [Solution](hackerRank/algorithms/OrganizingContainersOfBalls/OrganizingContainersOfBallsSc.scala) |
 | 11.12  | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | - | [Solution](hackerRank/python3_/map-and-lambda-function.py) | - | - | - |
 | 07.12  | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | - | [Solution](hackerRank/python3_/merge-the-tools.py) | - | - | - |
 | 02.12  | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | - | [Solution](hackerRank/python3_/the-captains-room.py) | - | - | - |
