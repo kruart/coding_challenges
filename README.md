@@ -19,6 +19,7 @@ Organizing Containers of Balls (207 02.12)
 ![Language](https://img.shields.io/badge/Language-Groovy_2.5.4-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Javascript-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Scala_2.12.7-7873ae.svg)
+![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)``
   
 
 HackerRank coding diary
