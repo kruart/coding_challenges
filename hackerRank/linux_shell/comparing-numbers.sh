@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Given two integers, X and Y, identify whether X < Y or X > Y or X = Y.
 # https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem
 read x
 read y

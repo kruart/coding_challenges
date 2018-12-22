@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Your task is to use for loops to display only odd natural numbers from 1 to 99.
 # https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
 
 # way 1
@@ -6,7 +7,7 @@ for num in {1..99}
 do
     rem=$((num % 2))
 #    if [ $rem -ne 0 ]; then
-    if [ $rem -eq 1 ]; then
+    if [[ $rem -eq 1 ]]; then
         echo ${num}
     fi
 done
