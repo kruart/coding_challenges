@@ -9,12 +9,12 @@
 [45]java
 [8]data_structures
 [60]algorithms
-[61]python3 
+[62]python3 
 [33]fp 
 [29]bash 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challenges-236_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challenges-237_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -39,6 +39,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 22.12  | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem) | - | [Solution](hackerRank/python3_/concatenate.py) | - | - | - | - |
 |        | [Uniq-command-4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/uniq-command-4.sh) |
 |        | [Uniq-command-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/uniq-command-3.sh) |
 |        | [Uniq-command-2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/uniq-command-2.sh) |
