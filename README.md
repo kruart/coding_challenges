@@ -14,7 +14,8 @@
 [29]bash 
 -->
 
-[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)  ![Challenges](https://img.shields.io/badge/Challenges-238_solved-orange.svg)
+[![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
+![Challenges](https://img.shields.io/badge/Challenges-239_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -39,6 +40,7 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 23.12  | [Sort-command-1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sort-command-1.sh) |
 | 22.12  | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | - | [Solution](hackerRank/python3_/validating-uid.py) | - | - | - | - |
 |        | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate/problem) | - | [Solution](hackerRank/python3_/concatenate.py) | - | - | - | - |
 |        | [Uniq-command-4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/uniq-command-4.sh) |
