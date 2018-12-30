@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-246_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-247_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,8 @@ Solved:
 ##### 2018
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 28.12  | [Sort-command-7](https://www.hackerrank.com/challenges/python-time-delta/problem) | - | [Solution](hackerRank/python3_/time-delta.py) | - | - | - | - |
+| 30.12  | [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | - | [Solution](hackerRank/python3_/re-split.py) | - | - | - | - |
+| 28.12  | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | - | [Solution](hackerRank/python3_/time-delta.py) | - | - | - | - |
 | 23.12  | [Sort-command-7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sort-command-7.sh) |
 |        | [Sort-command-6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sort-command-6.sh) |
 |        | [Sort-command-5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sort-command-5.sh) |
