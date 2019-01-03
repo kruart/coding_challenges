@@ -41,12 +41,12 @@ Solved:
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
 | 03.01  | [Subset Sum FP](https://www.hackerrank.com/challenges/subset-sum/problem) | - | - | - | - | [Solution](hackerRank/fp/SubsetSumFP.scala) | - |
-| 03.01  | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-2.sh) |
-| 03.01  | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-1.sh) |
-| 03.01  | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/middle-of-a-text-file.sh) |
-| 03.01  | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-2.sh) |
-| 03.01  | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-1.sh) |
-| 03.01  | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | - | [Solution](hackerRank/python3_/group-groups-groupdict.py) | - | - | - | - |
+|        | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-2.sh) |
+|        | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-1.sh) |
+|        | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/middle-of-a-text-file.sh) |
+|        | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-2.sh) |
+|        | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-1.sh) |
+|        | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | - | [Solution](hackerRank/python3_/group-groups-groupdict.py) | - | - | - | - |
    
 -----
 #### 2018                                                                       

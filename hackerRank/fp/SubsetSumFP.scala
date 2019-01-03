@@ -11,11 +11,11 @@ object SubsetSumFP extends App {
       var start = 0
       var end = src.length - 1
 
-     while (start < end) {
-       val mid = (start + end) / 2
-       if (src(mid) >= num) end = mid
-       else start = mid + 1
-     }
+      while (start < end) {
+        val mid = (start + end) / 2
+        if (src(mid) >= num) end = mid
+        else start = mid + 1
+      }
       start
     }
   }
@@ -24,7 +24,7 @@ object SubsetSumFP extends App {
   val sums = StdIn.readLine()
     .split(" ")
     .map(_.toInt)
-    .sorted(Ordering[Int].reverse)  // quick sort
+    .sorted(Ordering[Int].reverse)  // merge sort for Object types and quick sort for primitives
     .scanLeft(0L)(_ + _)            // List of sums
 
   (1 to StdIn.readInt()).foreach(_ => println(subsetSum(sums, StdIn.readLong())))
