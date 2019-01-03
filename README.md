@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-253_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-254_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 03.01  | [Subset Sum FP](https://www.hackerrank.com/challenges/subset-sum/problem) | - | - | - | - | [Solution](hackerRank/fp/SubsetSumFP.scala) | - |
 | 03.01  | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-2.sh) |
 | 03.01  | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-1.sh) |
 | 03.01  | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/middle-of-a-text-file.sh) |
