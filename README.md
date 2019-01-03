@@ -11,11 +11,11 @@
 [60]algorithms
 [62]python3 
 [33]fp 
-[29]bash 
+[38]bash 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-249_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-250_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 03.01  | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-2.sh) |
 | 03.01  | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/head-of-a-text-file-1.sh) |
 | 03.01  | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | - | [Solution](hackerRank/python3_/group-groups-groupdict.py) | - | - | - | - |
    
