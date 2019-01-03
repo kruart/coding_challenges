@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-247_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-248_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -37,7 +37,13 @@ HackerRank coding diary
 Solved:
 ------
 
-##### 2018
+#### 2019
+| Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
+| :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 03.01  | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | - | [Solution](hackerRank/python3_/group-groups-groupdict.py) | - | - | - | - |
+   
+-----
+#### 2018                                                                       
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
 | 30.12  | [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | - | [Solution](hackerRank/python3_/re-split.py) | - | - | - | - |
