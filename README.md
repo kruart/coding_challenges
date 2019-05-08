@@ -7,7 +7,7 @@
 
 <!--
 [45]java
-[9]data_structures
+[10]data_structures
 [60]algorithms
 [62]python3 
 [33]fp 
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-255_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-256_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,8 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 08.05  | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](hackerRank/data_structures/DynamicArray/DynamicArray.java) | - | - | - | [Solution](hackerRank/data_structures/DynamicArray/DynamicArrayScala.scala) | - |
+| 08.05  | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](hackerRank/data_structures/DeleteANode/DeleteANode.java) | - | - | - | - | - |
+|        | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](hackerRank/data_structures/DynamicArray/DynamicArray.java) | - | - | - | [Solution](hackerRank/data_structures/DynamicArray/DynamicArrayScala.scala) | - |
 | 03.01  | [Subset Sum FP](https://www.hackerrank.com/challenges/subset-sum/problem) | - | - | - | - | [Solution](hackerRank/fp/SubsetSumFP.scala) | - |
 |        | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-2.sh) |
 |        | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/tail-of-a-text-file-1.sh) |
