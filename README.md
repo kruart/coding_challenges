@@ -8,7 +8,7 @@
 <!--
 [45]java
 [10]data_structures
-[60]algorithms
+[61]algorithms
 [62]python3 
 [33]fp 
 [38]bash 
@@ -40,7 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 09.05  | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmitters.java) | - | - | - | - | - |
+| 09.05  | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmitters.java) | - | - | - | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmittersS.scala) | - |
 | 08.05  | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](hackerRank/data_structures/DeleteANode/DeleteANode.java) | - | - | - | - | - |
 |        | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](hackerRank/data_structures/DynamicArray/DynamicArray.java) | - | - | - | [Solution](hackerRank/data_structures/DynamicArray/DynamicArrayScala.scala) | - |
 | 03.01  | [Subset Sum FP](https://www.hackerrank.com/challenges/subset-sum/problem) | - | - | - | - | [Solution](hackerRank/fp/SubsetSumFP.scala) | - |
