@@ -1,4 +1,4 @@
-package sortings.MergeSort
+package sortings.mergesort
 
 def mergeSort(List nums) {
     if (nums.size() < 2) {
