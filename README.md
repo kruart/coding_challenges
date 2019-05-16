@@ -8,14 +8,14 @@
 <!--
 [45]java
 [10]data_structures
-[62]algorithms
+[63]algorithms
 [62]python3 
 [33]fp 
 [38]bash 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-257_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-258_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 16.05  | [Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | - | - | - | - | [Solution](hackerRank/algorithms/SherlockAndAnagrams/SherlockAndAnagramsS.scala) | - |
 | 13.05  | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | - | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionG.groovy) | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionS.scala) | - |
 | 09.05  | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmitters.java) | - | - | - | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmittersS.scala) | - |
 | 08.05  | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](hackerRank/data_structures/DeleteANode/DeleteANode.java) | - | - | - | - | - |
