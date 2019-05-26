@@ -9,13 +9,16 @@
 [45]java
 [10]data_structures
 [63]algorithms
-[62]python3 
-[33]fp 
-[38]bash 
+[66]python3 
+[34]fp 
+[43]bash 
+
+[2018 - 147 tasks] + 
+[2019 [26.05 Grep-A] 14] = 161 tasks
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-258_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-261_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,9 +43,11 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 26.05  | [Grep-A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-a.sh) |
+| 26.05  | [Grep-B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-b.sh) |
 | 16.05  | [Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | - | - | - | - | [Solution](hackerRank/algorithms/SherlockAndAnagrams/SherlockAndAnagramsS.scala) | - |
-| 13.05  | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | - | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionG.groovy) | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionS.scala) | - |
-| 09.05  | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmitters.java) | - | - | - | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmittersS.scala) | - |
+| 13.05  | [QuickSort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem) | - | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionG.groovy) | - | [Solution](hackerRank/algorithms/Quicksort1Partition/Quicksort1PartitionS.scala) | - |
+| 09.05  | [HackerLand Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem) | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmitters.java) | - | - | - | [Solution](hackerRank/algorithms/HackerlandRadioTransmitters/HackerlandRadioTransmittersS.scala) | - |
 | 08.05  | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](hackerRank/data_structures/DeleteANode/DeleteANode.java) | - | - | - | - | - |
 |        | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem) | [Solution](hackerRank/data_structures/DynamicArray/DynamicArray.java) | - | - | - | [Solution](hackerRank/data_structures/DynamicArray/DynamicArrayScala.scala) | - |
 | 03.01  | [Subset Sum FP](https://www.hackerrank.com/challenges/subset-sum/problem) | - | - | - | - | [Solution](hackerRank/fp/SubsetSumFP.scala) | - |

@@ -1,6 +1,6 @@
 # Linux shell challenges
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)
-![Challenges](https://img.shields.io/badge/Challenges-41_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-43_solved-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 
 Solved:
@@ -8,6 +8,8 @@ Solved:
 
 Challenge                           | Solution |  
 -----------------------------------:|:--------:|
+| [Grep-A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](grep-a.sh) |
+| [Grep-B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](grep-b.sh) |
 | [Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution](tail-of-a-text-file-2.sh) |
 | [Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution](tail-of-a-text-file-1.sh) |
 | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution](middle-of-a-text-file.sh) |
