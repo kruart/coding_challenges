@@ -1,4 +1,4 @@
-package practiceProblems.Arrays
+package Arrays
 
 static void printallSubarrays(List<Integer> arr) {
     def m = [0:[-1]]  // Map<Integer, List<Integer>>
