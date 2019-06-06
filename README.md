@@ -8,17 +8,17 @@
 <!--
 [45]java
 [10]data_structures
-[63]algorithms
+[64]algorithms
 [66]python3 
 [34]fp 
 [43]bash 
 
-[2018 - 147 tasks] + 
-[2019 [26.05 Grep-A] 14] = 161 tasks
+[2018 | 247 tasks] + 
+[2019 06.06 [Append and Delete] 15] = 262 tasks
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-261_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-262_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -43,6 +43,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 06.06  | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDelete.java) | [Solution](hackerRank/algorithms/AppendAndDelete/append-and-delete.py) | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDeleteG.groovy) | - | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDeleteS.scala) | - |
 | 26.05  | [Grep-A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-a.sh) |
 | 26.05  | [Grep-B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-b.sh) |
 | 16.05  | [Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) | - | - | - | - | [Solution](hackerRank/algorithms/SherlockAndAnagrams/SherlockAndAnagramsS.scala) | - |
