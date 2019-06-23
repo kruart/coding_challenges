@@ -11,15 +11,15 @@
 [65]algorithms
 [67]python3 
 [34]fp 
-[43]bash 
+[46]bash 
 
 [2018 | 247 tasks] + 
-[2019 12.06 [The Full Counting Sort] 17] 
-= 264 tasks
+[2019 23.06 [Grep-3] 20] 
+= 267 tasks
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-264_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-267_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -44,6 +44,9 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 23.06  | [Grep-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-3.sh) |
+|        | [Grep-2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-2.sh) |
+|        | [Grep-1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-1.sh) |
 | 12.06  | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem) | [Solution](hackerRank/algorithms/TheFullCountingSort/TheFullCountingSort.java) | - | [Solution](hackerRank/algorithms/TheFullCountingSort/TheFullCountingSortG.groovy) | - | - | - |
 | 11.06  | [Set .symmetric_difference()](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | - | [Solution](hackerRank/python3_/set-symmetric-difference.py) | - | - | - | - |
 | 06.06  | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDelete.java) | [Solution](hackerRank/algorithms/AppendAndDelete/append-and-delete.py) | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDeleteG.groovy) | - | [Solution](hackerRank/algorithms/AppendAndDelete/AppendAndDeleteS.scala) | - |
