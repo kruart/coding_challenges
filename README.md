@@ -7,19 +7,19 @@
 
 <!--
 [45]java
-[11]data_structures
+[13]data_structures
 [65]algorithms
 [67]python3 
 [34]fp 
 [46]bash 
 
 [2018 | 247 tasks] + 
-[2019 24.06 [Insert a node at the head of a linked list] 22] 
-= 269 tasks
+[2019 24.06 [Merge two sorted linked lists] 23] 
+= 270 tasks
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-269_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-270_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -44,7 +44,8 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 24.06  | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/InsertANodeAtTheHeadOfALinkedList.java) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/insert-a-node-at-the-head-of-a-linked-list.py) | - | - | - | - |
+| 24.06  | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | [Solution](hackerRank/data_structures/MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists.java) | - | - | - | - | - |
+|        | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/InsertANodeAtTheHeadOfALinkedList.java) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/insert-a-node-at-the-head-of-a-linked-list.py) | - | - | - | - |
 | 23.06  | [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | - | - | - | - | [Solution](hackerRank/data_structures/ReverseALinkedList/ReverseALinkedListS.scala) | - |
 |        | [Grep-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-3.sh) |
 |        | [Grep-2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/grep-2.sh) |
