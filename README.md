@@ -7,19 +7,19 @@
 
 <!--
 [45]java
-[13]data_structures
+[15]data_structures
 [65]algorithms
 [67]python3 
 [34]fp 
 [46]bash 
 
 [2018 | 247 tasks] + 
-[2019 24.06 [Merge two sorted linked lists] 23] 
-= 270 tasks
+[2019 24.06 [Merge two sorted linked lists] 25] 
+= 272 tasks
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-270_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-272_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -44,6 +44,8 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 25.06  | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | [Solution](hackerRank/data_structures/DeleteDuplicateValueNodesFromASortedLinkedList/DeleteDuplicateValueNodesFromASortedLinkedList.java) | - | - | - | [Solution](hackerRank/data_structures/DeleteDuplicateValueNodesFromASortedLinkedList/DeleteDuplicateValueNodesFromASortedLinkedListS.scala) | - |
+|        | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | [Solution](hackerRank/data_structures/InsertANodeAtTheTailOfALinkedList/InsertANodeAtTheTailOfALinkedList.java) | - | - | - | - | - |
 | 24.06  | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | [Solution](hackerRank/data_structures/MergeTwoSortedLinkedLists/MergeTwoSortedLinkedLists.java) | - | - | - | - | - |
 |        | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/InsertANodeAtTheHeadOfALinkedList.java) | [Solution](hackerRank/data_structures/InsertANodeAtTheHeadOfALinkedList/insert-a-node-at-the-head-of-a-linked-list.py) | - | - | - | - |
 | 23.06  | [Reverse a Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | - | - | - | - | [Solution](hackerRank/data_structures/ReverseALinkedList/ReverseALinkedListS.scala) | - |
