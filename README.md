@@ -7,7 +7,7 @@
 
 <!--
 [45]java
-[16]data_structures
+[17]data_structures
 [67]algorithms
 [67]python3 
 [34]fp 
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-274_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-275_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 27.06  | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | - | - | - | - | [Solution](hackerRank/data_structures/ReverseADoublyLinkedList/ReverseADoublyLinkedListS.scala) | - |
 | 26.06  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | - | - | - | - | [Solution](hackerRank/algorithms/InsertNodeAtSpecificPositionInLinkedList/InsertNodeAtSpecificPositionInLinkedListS.scala) | - |
 |        | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModified.java) | [Solution](hackerRank/algorithms/FibonacciModified/fibonacci-modified.py) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModifiedG.groovy) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModified.js) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModifiedS.scala) | - |
 | 25.06  | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | [Solution](hackerRank/data_structures/CompareTwoLinkedLists/CompareTwoLinkedLists.java) | - | - | - | - | - |
