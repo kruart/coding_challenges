@@ -40,7 +40,11 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 27.06  | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | - | - | - | - | [Solution](hackerRank/data_structures/ReverseADoublyLinkedList/ReverseADoublyLinkedListS.scala) | - |
+| 27.06  | [Awk-4](https://www.hackerrank.com/challenges/awk-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-4.sh) |
+|        | [Awk-3](https://www.hackerrank.com/challenges/awk-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-3.sh) |
+|        | [Awk-2](https://www.hackerrank.com/challenges/awk-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-2.sh) |
+|        | [Awk-1](https://www.hackerrank.com/challenges/awk-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-1.sh) |
+|        | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | - | - | - | - | [Solution](hackerRank/data_structures/ReverseADoublyLinkedList/ReverseADoublyLinkedListS.scala) | - |
 | 26.06  | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | - | - | - | - | [Solution](hackerRank/algorithms/InsertNodeAtSpecificPositionInLinkedList/InsertNodeAtSpecificPositionInLinkedListS.scala) | - |
 |        | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModified.java) | [Solution](hackerRank/algorithms/FibonacciModified/fibonacci-modified.py) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModifiedG.groovy) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModified.js) | [Solution](hackerRank/algorithms/FibonacciModified/FibonacciModifiedS.scala) | - |
 | 25.06  | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | [Solution](hackerRank/data_structures/CompareTwoLinkedLists/CompareTwoLinkedLists.java) | - | - | - | - | - |

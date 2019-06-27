@@ -1,6 +1,6 @@
 # Linux shell challenges
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)
-![Challenges](https://img.shields.io/badge/Challenges-46_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-50_solved-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 
 Solved:
@@ -8,6 +8,10 @@ Solved:
 
 Challenge                           | Solution |  
 -----------------------------------:|:--------:|
+| [Awk-4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](awk-4.sh) |
+| [Awk-3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](awk-3.sh) |
+| [Awk-2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](awk-2.sh) |
+| [Awk-1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](awk-1.sh) |
 | [Grep-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](grep-3.sh) |
 | [Grep-2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](grep-2.sh) |
 | [Grep-1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](grep-1.sh) |
