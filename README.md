@@ -7,7 +7,7 @@
 
 <!--
 [45]java
-[17]data_structures
+[18]data_structures
 [67]algorithms
 [68]python3 
 [34]fp 
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-280_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-281_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,8 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 27.06  | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | - | [Solution](hackerRank/python3_/words-score.py) | - | - | - | - |
+| 27.06  | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) | [Solution](hackerRank/data_structures/InsertingANodeIntoASortedDoublyLinkedList/InsertingANodeIntoASortedDoublyLinkedList.java) | - | - | - | - | - |
+|        | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | - | [Solution](hackerRank/python3_/words-score.py) | - | - | - | - |
 |        | [Awk-4](https://www.hackerrank.com/challenges/awk-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-4.sh) |
 |        | [Awk-3](https://www.hackerrank.com/challenges/awk-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-3.sh) |
 |        | [Awk-2](https://www.hackerrank.com/challenges/awk-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/awk-2.sh) |
