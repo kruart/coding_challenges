@@ -10,12 +10,12 @@
 [23]data_structures
 [34]fp 
 [45]java
-[50]linux_shell
+[54]linux_shell
 [68]python3 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-287_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-291_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,11 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 29.06  | [Tree Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution](hackerRank/data_structures/TreeHeightOfABinaryTree/TreeHeightOfABinaryTree.java) | [Solution](hackerRank/data_structures/TreeHeightOfABinaryTree/tree-height-of-a-binary-tree.py) | - | - | - | - |
+| 29.06  | [Paste-4](https://www.hackerrank.com/challenges/paste-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/paste-4.sh) |
+|        | [Paste-3](https://www.hackerrank.com/challenges/paste-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/paste-3.sh) |
+|        | [Paste-2](https://www.hackerrank.com/challenges/paste-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/paste-2.sh) |
+|        | [Paste-1](https://www.hackerrank.com/challenges/paste-1/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/paste-1.sh) |
+|        | [Tree Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution](hackerRank/data_structures/TreeHeightOfABinaryTree/TreeHeightOfABinaryTree.java) | [Solution](hackerRank/data_structures/TreeHeightOfABinaryTree/tree-height-of-a-binary-tree.py) | - | - | - | - |
 |        | [Tree Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Solution](hackerRank/data_structures/TreeInorderTraversal/TreeInorderTraversal.java) | - | - | - | - | - |
 |        | [Tree Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) | [Solution](hackerRank/data_structures/TreePostorderTraversal/TreePostorderTraversal.java) | - | - | - | - | - |
 |        | [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/forum) | [Solution](hackerRank/data_structures/TreePreorderTraversal/TreePreorderTraversal.java) | - | - | - | - | - |

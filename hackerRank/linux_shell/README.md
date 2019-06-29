@@ -1,6 +1,6 @@
 # Linux shell challenges
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)
-![Challenges](https://img.shields.io/badge/Challenges-50_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-54_solved-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 
 Solved:
@@ -8,6 +8,10 @@ Solved:
 
 Challenge                           | Solution |  
 -----------------------------------:|:--------:|
+| [Pate-4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution](paste-4.sh) |
+| [Pate-3](https://www.hackerrank.com/challenges/paste-3/problem) | [Solution](paste-3.sh) |
+| [Pate-2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution](paste-2.sh) |
+| [Pate-1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution](paste-1.sh) |
 | [Awk-4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](awk-4.sh) |
 | [Awk-3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](awk-3.sh) |
 | [Awk-2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](awk-2.sh) |
