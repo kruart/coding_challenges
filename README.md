@@ -7,7 +7,7 @@
 
 <!--
 [45]java
-[19]data_structures
+[20]data_structures
 [67]algorithms
 [68]python3 
 [34]fp 
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-282_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-283_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 29.06  | [Tree Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/forum) | [Solution](hackerRank/data_structures/TreePreorderTraversal/TreePreorderTraversal.java) | - | - | - | - | - |
 | 28.06  | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) | [Solution](hackerRank/data_structures/FindMergePointOfTwoLists/FindMergePointOfTwoLists.java) | [Solution](hackerRank/data_structures/FindMergePointOfTwoLists/find-merge-point-of-two-lists.py) | - | - | - | - |
 | 27.06  | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) | [Solution](hackerRank/data_structures/InsertingANodeIntoASortedDoublyLinkedList/InsertingANodeIntoASortedDoublyLinkedList.java) | - | - | - | - | - |
 |        | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | - | [Solution](hackerRank/python3_/words-score.py) | - | - | - | - |
