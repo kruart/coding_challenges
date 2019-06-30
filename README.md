@@ -10,12 +10,12 @@
 [23]data_structures
 [35]fp 
 [45]java
-[55]linux_shell
+[56]linux_shell
 [69]python3 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-294_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-295_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,7 +40,8 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 30.06  | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/arithmetic-operations.sh) |
+| 30.06  | [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/remove-the-first-capital-letter-from-each-element.sh) |
+|        | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/arithmetic-operations.sh) |
 |        | [Super Digit FP](https://www.hackerrank.com/challenges/super-digit/problem) | - | - | - | - | [Solution](hackerRank/fp/SuperDigitFP.scala) | - |
 |        | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | - | [Solution](hackerRank/python3_/detect-floating-point-number.py) | - | - | - | - |
 | 29.06  | [Paste-4](https://www.hackerrank.com/challenges/paste-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/paste-4.sh) |
