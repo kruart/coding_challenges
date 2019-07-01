@@ -7,7 +7,7 @@
 
 <!--
 [67]algorithms
-[24]data_structures
+[25]data_structures
 [35]fp 
 [45]java
 [56]linux_shell
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-296_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-297_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 01.07  | [Tree Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Solution](hackerRank/data_structures/TreeLevelOrderTraversal/TreeLevelOrderTraversal.java) | [Solution](hackerRank/data_structures/TreeLevelOrderTraversal/tree-level-order-traversal.py) | - | - | - | - |
 | 30.06  | [Tree Top View](https://www.hackerrank.com/challenges/tree-top-view/problem) | [Solution](hackerRank/data_structures/TreeTopView/TreeTopView.java) | - | - | - | - | - |
 |        | [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/remove-the-first-capital-letter-from-each-element.sh) |
 |        | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/arithmetic-operations.sh) |
