@@ -1,6 +1,6 @@
 # Linux shell challenges
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)
-![Challenges](https://img.shields.io/badge/Challenges-56_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-61_solved-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 
 Solved:
@@ -8,6 +8,11 @@ Solved:
 
 Challenge                           | Solution |  
 -----------------------------------:|:--------:|
+| [Sed-5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](sed-5.sh) |
+| [Sed-4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](sed-4.sh) |
+| [Sed-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](sed-3.sh) |
+| [Sed-2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](sed-2.sh) |
+| [Sed-1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](sed-1.sh) |
 | [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](remove-the-first-capital-letter-from-each-element.sh) |
 | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution](arithmetic-operations.sh) |
 | [Pate-4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution](paste-4.sh) |
