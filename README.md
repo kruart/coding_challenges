@@ -8,14 +8,14 @@
 <!--
 [67]algorithms
 [28]data_structures
-[36]fp 
+[37]fp 
 [45]java
 [61]linux_shell
 [69]python3 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-306_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-307_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 03.07  | [Crosswords-101 FP](https://www.hackerrank.com/challenges/crosswords-101/problem) | - | - | - | - | [Solution](hackerRank/fp/Crosswords101FP.scala) | - |
 | 02.07  | [Sed-5](https://www.hackerrank.com/challenges/sed-command-5/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sed-5.sh) |
 |        | [Sed-4](https://www.hackerrank.com/challenges/sed-command-4/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sed-4.sh) |
 |        | [Sed-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/sed-3.sh) |
