@@ -1,6 +1,6 @@
 # Linux shell challenges
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA)
-![Challenges](https://img.shields.io/badge/Challenges-61_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-64_solved-orange.svg)
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 
 Solved:
@@ -8,6 +8,9 @@ Solved:
 
 Challenge                           | Solution |  
 -----------------------------------:|:--------:|
+| [Lonely Integer - Bash](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution](lonely-integer-bash.sh) |
+| [Filter An Array With Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](filter-an-array-with-patterns.sh) |
+| [Compute The Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution](compute-the-average.sh) |
 | [Sed-5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](sed-5.sh) |
 | [Sed-4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](sed-4.sh) |
 | [Sed-3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](sed-3.sh) |
