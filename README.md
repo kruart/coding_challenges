@@ -11,11 +11,11 @@
 [37]fp 
 [45]java
 [64]linux_shell
-[71]python3 
+[72]python3 
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-312_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-313_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,8 +40,9 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
-| 05.07  | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | - | - | [Solution](hackerRank/python3_/inner-and-outer.py) | - | - | - |
-|        | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | - | - | [Solution](hackerRank/python3_/alphabet-rangoli.py) | - | - | - |
+| 05.07  | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | - | [Solution](hackerRank/python3_/sum-and-prod.py) | - | - | - | - |
+|        | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | - | [Solution](hackerRank/python3_/inner-and-outer.py) | - | - | - | - |
+|        | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | - | [Solution](hackerRank/python3_/alphabet-rangoli.py) | - | - | - | - |
 | 04.07  | [Lonely Integer - Bash](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/lonely-integer-bash.sh) |
 |        | [Filter An Array With Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/filter-an-array-with-patterns.sh) |
 |        | [Compute The Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | - | - | - | - | - | [Solution](hackerRank/linux_shell/compute-the-average.sh) |
