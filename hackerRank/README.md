@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/weozUA">
+    <a href="https://www.hackerrank.com/">
         <img height=75 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
 </p>
-<p align="center">This repository contains solving challenges from hackerrank.com. </p><br>
+<p align="center">This repository contains solved challenges from hackerrank.com. </p><br>
 
 <!--
 [68]algorithms
