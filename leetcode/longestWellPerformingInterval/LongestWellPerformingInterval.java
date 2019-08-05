@@ -1,8 +1,9 @@
-package LongestWellPerformingInterval;
+package longestWellPerformingInterval;
 
 import java.util.HashMap;
 import java.util.Map;
 
+// https://leetcode.com/problems/longest-well-performing-interval/
 public class LongestWellPerformingInterval {
     // O(n)
     public int longestWPI(int[] hours) {

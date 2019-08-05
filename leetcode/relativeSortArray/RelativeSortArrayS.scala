@@ -1,5 +1,6 @@
 package relativeSortArray
 
+// https://leetcode.com/problems/relative-sort-array/
 object RelativeSortArrayS {
   def relativeSortArray(arr1: Array[Int], arr2: Array[Int]): Array[Int] = {
     val groupedMap = arr1.groupBy(identity).mapValues(_.length)
