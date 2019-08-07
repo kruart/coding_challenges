@@ -14,8 +14,8 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-<!-- Find All Anagrams in a String == 8 -->
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-8_solved-orange.svg)
+<!-- License Key Formatting == 9 -->
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-9_solved-orange.svg)
 =====   
 
 
@@ -26,6 +26,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-8_solve
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)      |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                          |     `Easy`      | [Java](myCalendarTwo/MyCalendarTwo.java) |
+| 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                            |     `Easy`      | [Java](licenseKeyFormatting/LicenseKeyFormatting.java) |
 | 438    | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                            |     `Medium`    | [Java](findAllAnagramsInAString/FindAllAnagramsInAString.java) |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                        |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Scala](reverseInteger/ReverseIntegerS.scala) |
 | 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                        |     `Easy`      | [Java](twoSum/TwoSum.java) |
