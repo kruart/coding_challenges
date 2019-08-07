@@ -7,7 +7,7 @@
 
 <!--
 [68]algorithms
-[28]data_structures
+[29]data_structures
 [37]fp 
 [45]java
 [64]linux_shell
@@ -15,7 +15,7 @@
 -->
 
 [![Profile Link](https://img.shields.io/badge/hackerRank-profile_link-brightgreen.svg)](https://www.hackerrank.com/weozUA) 
-![Challenges](https://img.shields.io/badge/Challenges-314_solved-orange.svg)
+![Challenges](https://img.shields.io/badge/Challenges-315_solved-orange.svg)
 
 ![Language](https://img.shields.io/badge/Language-Java_8-7873ae.svg)
 ![Language](https://img.shields.io/badge/Language-Python_3-7873ae.svg)
@@ -40,6 +40,7 @@ Solved:
 #### 2019
 | Date   | Challenge                           | Java 8   | Python  | Groovy  | JS    | Scala  | Bash  |  
 | :-----:|:-----------------------------------:|:--------:|:-------:|:-------:|:-----:| :-----:| :---: |
+| 07.08  | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | [Solution](data_structures/CycleDetection/CycleDetection.java) | - | - | - | - | - |
 | 15.07  | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | - | - | [Solution](algorithms/BeautifulTriplets/BeautifulTripletsG.groovy) | - | [Solution](algorithms/BeautifulTriplets/BeautifulTripletsS.scala) | - |
 | 05.07  | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem) | - | [Solution](python3_/sum-and-prod.py) | - | - | - | - |
 |        | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem) | - | [Solution](python3_/inner-and-outer.py) | - | - | - | - |
