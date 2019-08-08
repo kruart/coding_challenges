@@ -14,8 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-<!-- Defanging an IP Address == 10 -->
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-10_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-12_solved-orange.svg)
 =====   
 
 
@@ -25,9 +24,11 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-10_solv
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)      |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                        |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
+| 796    | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/)                                                |     `Easy`      | [Java](rotateString/RotateString.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)      |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
-| 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                          |     `Easy`      | [Java](myCalendarTwo/MyCalendarTwo.java) |
+| 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                          |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java) |
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                          |     `Easy`      | [Java](licenseKeyFormatting/LicenseKeyFormatting.java) |
 | 438    | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                            |     `Medium`    | [Java](findAllAnagramsInAString/FindAllAnagramsInAString.java) |
+| 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                |     `Medium`    | [Java](majorityElement2/MajorityElement2.java) |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                        |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Scala](reverseInteger/ReverseIntegerS.scala) |
-| 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                        |     `Easy`      | [Java](twoSum/TwoSum.java) |
+| 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                        |     `Easy`      | [Java](twoSum/TwoSum.java), [Python](twoSum/TwoSum.py), [Scala](twoSum/TwoSumS.scala) |
