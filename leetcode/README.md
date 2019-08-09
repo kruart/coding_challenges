@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-15_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-16_solved-orange.svg)
 =====   
 
 
@@ -24,6 +24,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-15_solv
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)      |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                        |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
+| 937    | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)                                                      |     `Easy`      | [Java](reorderLogFiles/ReorderLogFiles.java) |
 | 796    | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/)                                                |     `Easy`      | [Java](rotateString/RotateString.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)      |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                          |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java) |
