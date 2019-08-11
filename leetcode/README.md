@@ -20,6 +20,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-21_solv
 
 | #      | Challenge                                                                                                                               |   Difficulty  |  Solution |
 |-------:|----------------------------------------------------------------------------------------------------------------------------------------|:-------------:|:---------|
+| 1150   | [Check If a Number Is Majority Element in a Sorted Array]()                                                                          |     `Easy`      | [scala](checkIfANumberIsMajorityElementInASortedArray/CheckIfANumberIsMajorityElementInASortedArrayS.scala) |
 | 1124   | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)                                  |     `Medium`    | [Java](longestWellPerformingInterval/LongestWellPerformingInterval.java) |
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                            |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
@@ -36,6 +37,8 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-21_solv
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
+| 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Python](UniquePaths2/UniquePaths2.py) |
+| 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Python](UniquePaths/UniquePaths.py)   |
 | 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                |     `Easy`      | [Scala](palindromeNumber/PalindromeNumberS.scala) |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                    |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Scala](reverseInteger/ReverseIntegerS.scala) |
 | 3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)      |     `Medium`    | [Java](longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java) |
