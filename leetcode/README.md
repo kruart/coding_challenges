@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-32_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-37_solved-orange.svg)
 =====   
 
 
@@ -37,10 +37,15 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-32_solv
 | 448    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                  |     `Easy`      | [Java](findAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java), [Scala](findAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArrayS.scala) |
 | 438    | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                        |     `Medium`    | [Java](findAllAnagramsInAString/FindAllAnagramsInAString.java) |
 | 415    | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                            |     `Easy`      | [Java](addStrings/AddStrings.java), [Scala](addStrings/AddStringsS.scala) |
-| 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                                     |     `Easy`      | [Java](sumOfLeftLeaves/SumOfLeftLeaves.java) |
+| 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                |     `Easy`      | [Scala](fizzBuzz/FizzBuzzS.scala) |
+| 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                              |     `Easy`      | [Java](sumOfLeftLeaves/SumOfLeftLeaves.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
+| 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                        |     `Easy`      | [Scala](validAnagram/ValidAnagramS.scala) |
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                            |     `Medium`    | [Java](majorityElement2/MajorityElement2.java), [Scala](majorityElement2/MajorityElement2S.scala) |
+| 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
+| 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
+| 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Python](UniquePaths2/UniquePaths2.py) |
