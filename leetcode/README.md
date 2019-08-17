@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-41_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-43_solved-orange.svg)
 =====   
 
 
@@ -30,6 +30,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-41_solv
 | 929    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                                                      |     `Easy`      | [Java](uniqueEmailAddresses/UniqueEmailAddresses.java) |
 | 904    | [Rectangle Overlap](https://leetcode.com/problems/fruit-into-baskets/)                                                               |     `Medium`    | [Scala](fruitIntoBaskets/fruitIntoBaskets.java) |
 | 836    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                                                |     `Easy`      | [Scala](rectangleOverlap/RectangleOverlapS.scala) |
+| 832    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                |     `Easy`      | [Java](flippingAnImage/FlippingAnImage.java) |
 | 796    | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/)                                                            |     `Easy`      | [Java](rotateString/RotateString.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                  |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
@@ -39,11 +40,12 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-41_solv
 | 415    | [Add Strings](https://leetcode.com/problems/add-strings/)                                                                            |     `Easy`      | [Java](addStrings/AddStrings.java), [Scala](addStrings/AddStringsS.scala) |
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                |     `Easy`      | [Scala](fizzBuzz/FizzBuzzS.scala) |
 | 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                              |     `Easy`      | [Java](sumOfLeftLeaves/SumOfLeftLeaves.java) |
-| 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                    |     `Easy`      | [Java](firstUniqueCharacterInAString/FirstUniqueCharacterInAString.java) |
+| 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                              |     `Easy`      | [Java](firstUniqueCharacterInAString/FirstUniqueCharacterInAString.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                        |     `Easy`      | [Scala](validAnagram/ValidAnagramS.scala) |
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                            |     `Medium`    | [Java](majorityElement2/MajorityElement2.java), [Scala](majorityElement2/MajorityElement2S.scala) |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    |     `Medium`    | [Java](kthLargestElementInAnArray/KthLargestElementInAnArray.java) |
+| 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
