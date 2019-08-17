@@ -2,7 +2,7 @@ package findAllNumbersDisappearedInAnArray
 
 import scala.collection.mutable.ListBuffer
 
-// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/
+// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 object FindAllNumbersDisappearedInAnArrayS {
   def findDisappearedNumbers(nums: Array[Int]): List[Int] = {
     //first way

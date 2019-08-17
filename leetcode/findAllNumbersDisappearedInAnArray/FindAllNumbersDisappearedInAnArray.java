@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/submissions/
+// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 public class FindAllNumbersDisappearedInAnArray {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         for (int num : nums) {

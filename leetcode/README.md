@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-43_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-50_solved-orange.svg)
 =====   
 
 
@@ -28,12 +28,14 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-43_solv
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                    |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
 | 937    | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)                                                                |     `Easy`      | [Java](reorderLogFiles/ReorderLogFiles.java) |
 | 929    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                                                      |     `Easy`      | [Java](uniqueEmailAddresses/UniqueEmailAddresses.java) |
-| 904    | [Rectangle Overlap](https://leetcode.com/problems/fruit-into-baskets/)                                                               |     `Medium`    | [Scala](fruitIntoBaskets/fruitIntoBaskets.java) |
+| 904    | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                              |     `Medium`    | [Java](fruitIntoBaskets/FruitIntoBaskets.java) |
+| 896    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                    |     `Easy`      | [Java](monotonicArray/MonotonicArray.java) |
 | 836    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                                                |     `Easy`      | [Scala](rectangleOverlap/RectangleOverlapS.scala) |
 | 832    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                |     `Easy`      | [Java](flippingAnImage/FlippingAnImage.java) |
 | 796    | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/)                                                            |     `Easy`      | [Java](rotateString/RotateString.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                  |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
+| 657    | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                      |     `Easy`      | [Java](robotReturnToOrigin/RobotReturnToOrigin.java) |
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                      |     `Easy`      | [Java](licenseKeyFormatting/LicenseKeyFormatting.java) |
 | 448    | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                  |     `Easy`      | [Java](findAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java), [Scala](findAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArrayS.scala) |
 | 438    | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)                                        |     `Medium`    | [Java](findAllAnagramsInAString/FindAllAnagramsInAString.java) |
@@ -42,7 +44,9 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-43_solv
 | 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                              |     `Easy`      | [Java](sumOfLeftLeaves/SumOfLeftLeaves.java) |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                              |     `Easy`      | [Java](firstUniqueCharacterInAString/FirstUniqueCharacterInAString.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
+| 268    | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                      |     `Easy`      | [Java](missingNumber/MissingNumber.java) |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                        |     `Easy`      | [Scala](validAnagram/ValidAnagramS.scala) |
+| 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                          |     `Easy`      | [Java](powerOfTwo/PowerOfTwo.java) |
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                            |     `Medium`    | [Java](majorityElement2/MajorityElement2.java), [Scala](majorityElement2/MajorityElement2S.scala) |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    |     `Medium`    | [Java](kthLargestElementInAnArray/KthLargestElementInAnArray.java) |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
@@ -54,12 +58,14 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-43_solv
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
+| 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Python](UniquePaths2/UniquePaths2.py) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](UniquePaths/UniquePaths.java), [Python](UniquePaths/UniquePaths.py)   |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                      |     `Easy`      | [Java](searchInsertPosition/SearchInsertPosition.java) |
-| 13     | [RomanTo Integer](https://leetcode.com/problems/roman-to-integer/)                                                                   |     `Easy`      | [Scala](romanToInteger/RomanToIntegerS.scala) |
+| 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                            |     `Easy`      | [Scala](removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) |
+| 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                                  |     `Easy`      | [Scala](romanToInteger/RomanToIntegerS.scala) |
 | 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                |     `Easy`      | [Scala](palindromeNumber/PalindromeNumberS.scala) |
-| 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                    |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Scala](reverseInteger/ReverseIntegerS.scala) |
+| 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                    |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Python](reverseInteger/ReverseInteger.py), [Scala](reverseInteger/ReverseIntegerS.scala) |
 | 3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)      |     `Medium`    | [Java](longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java) |
 | 2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                    |     `Medium`    | [Java](addTwoNumbers/AddTwoNumbers.java) |
 | 1      | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                    |     `Easy`      | [Java](twoSum/TwoSum.java), [Python](twoSum/TwoSum.py), [Scala](twoSum/TwoSumS.scala) |
