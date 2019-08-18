@@ -1,4 +1,4 @@
-package MinimumSwapsToGroupAll1sTogether;
+package minimumSwapsToGroupAll1sTogether;
 
 public class MinimumSwapsToGroupAll1sTogether {
     public int minSwaps(int[] data) {

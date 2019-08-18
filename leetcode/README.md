@@ -14,13 +14,15 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-50_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-52_solved-orange.svg)
 =====   
 
 
 | #      | Challenge                                                                                                                            |   Difficulty    |  Solution |
 |-------:|--------------------------------------------------------------------------------------------------------------------------------------|:---------------:|:---------|
-| 1151   | [Minimum Swaps to Group All 1's Together]()                                                                                          |     `Medium`    | [Java](MinimumSwapsToGroupAll1sTogether/MinimumSwapsToGroupAll1sTogether.java) |
+| 1161   | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                              |     `Medium`    | [Java](maximumLevelSumOfABinaryTree/MaximumLevelSumOfABinaryTree.java) |
+| 1160   | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)            |     `Easy`      | [Java](findWordsThatCanBeFormedByCharacters/FindWordsThatCanBeFormedByCharacters.java) |
+| 1151   | [Minimum Swaps to Group All 1's Together]()                                                                                          |     `Medium`    | [Java](minimumSwapsToGroupAll1sTogether/MinimumSwapsToGroupAll1sTogether.java) |
 | 1150   | [Check If a Number Is Majority Element in a Sorted Array]()                                                                          |     `Easy`      | [Scala](checkIfANumberIsMajorityElementInASortedArray/CheckIfANumberIsMajorityElementInASortedArrayS.scala) |
 | 1124   | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)                                  |     `Medium`    | [Java](longestWellPerformingInterval/LongestWellPerformingInterval.java) |
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
