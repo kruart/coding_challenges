@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-52_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-56_solved-orange.svg)
 =====   
 
 
@@ -34,7 +34,8 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-52_solv
 | 896    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                    |     `Easy`      | [Java](monotonicArray/MonotonicArray.java) |
 | 836    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                                                |     `Easy`      | [Scala](rectangleOverlap/RectangleOverlapS.scala) |
 | 832    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                |     `Easy`      | [Java](flippingAnImage/FlippingAnImage.java) |
-| 796    | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/)                                                            |     `Easy`      | [Java](rotateString/RotateString.java) |
+| 796    | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                                        |     `Easy`      | [Java](rotateString/RotateString.java) |
+| 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                |     `Easy`      | [Java](jewelsAndStones/JewelsAndStones.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                  |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
 | 657    | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                      |     `Easy`      | [Java](robotReturnToOrigin/RobotReturnToOrigin.java) |
@@ -58,13 +59,16 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-52_solv
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java) |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
+| 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
+| 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                  |     `Easy`      | [Java](plusOne/PlusOne.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Python](UniquePaths2/UniquePaths2.py) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](UniquePaths/UniquePaths.java), [Python](UniquePaths/UniquePaths.py)   |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                      |     `Easy`      | [Java](searchInsertPosition/SearchInsertPosition.java) |
-| 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                            |     `Easy`      | [Scala](removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) |
+| 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                            |     `Easy`      | [Java](removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) |
+| 20     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                               |     `Easy`      | [Java](validParentheses/ValidParentheses.java) |
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                                  |     `Easy`      | [Scala](romanToInteger/RomanToIntegerS.scala) |
 | 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                |     `Easy`      | [Scala](palindromeNumber/PalindromeNumberS.scala) |
 | 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                    |     `Easy`      | [Java](reverseInteger/ReverseInteger.java), [Python](reverseInteger/ReverseInteger.py), [Scala](reverseInteger/ReverseIntegerS.scala) |
