@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-69_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-71_solved-orange.svg)
 =====   
 
 
@@ -55,19 +55,22 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-69_solv
 | 349    | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                              |     `Easy`      | [Java](intersectionOfTwoArrays/IntersectionOfTwoArrays.java) |
 | 344    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                      |     `Easy`      | [Java](reverseString/ReverseString.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
+| 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                            |     `Easy`      | [Java](moveZeroes/MoveZeroes.java) |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                      |     `Easy`      | [Java](missingNumber/MissingNumber.java) |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                        |     `Easy`      | [Scala](validAnagram/ValidAnagramS.scala) |
 | 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                          |     `Easy`      | [Java](powerOfTwo/PowerOfTwo.java) |
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                            |     `Medium`    | [Java](majorityElement2/MajorityElement2.java), [Scala](majorityElement2/MajorityElement2S.scala) |
+| 219    | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                        |     `Easy`      | [Java](containsDuplicate2/ContainsDuplicate2.java) |
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                              |     `Easy`      | [Java](containsDuplicate/ContainsDuplicate.java) |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    |     `Medium`    | [Java](kthLargestElementInAnArray/KthLargestElementInAnArray.java) |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
+| 202    | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                          |     `Easy`      | [Java](happyNumber/HappyNumber.java) |
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 125    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                  |     `Easy`      | [Java](validPalindrome/ValidPalindrome.java) |
-| 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java) |
+| 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java), [Scala](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockS.scala) |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                          |     `Easy`      | [Java](maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
