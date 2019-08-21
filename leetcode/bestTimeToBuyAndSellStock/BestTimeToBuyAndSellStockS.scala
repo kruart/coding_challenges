@@ -6,7 +6,6 @@ object BestTimeToBuyAndSellStockS {
     var min = prices(0)
     var profit = -1
 
-    // 7,1,5,3,6,4
     prices.tail.foreach{ it =>
       profit = Math.max(profit, it - min)
       min = Math.min(min, it)
