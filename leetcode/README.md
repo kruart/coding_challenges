@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-78_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-83_solved-orange.svg)
 =====   
 
 
@@ -24,6 +24,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-78_solv
 | 1160   | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)            |     `Easy`      | [Java](findWordsThatCanBeFormedByCharacters/FindWordsThatCanBeFormedByCharacters.java) |
 | 1151   | [Minimum Swaps to Group All 1's Together]()                                                                                          |     `Medium`    | [Java](minimumSwapsToGroupAll1sTogether/MinimumSwapsToGroupAll1sTogether.java) |
 | 1150   | [Check If a Number Is Majority Element in a Sorted Array]()                                                                          |     `Easy`      | [Scala](checkIfANumberIsMajorityElementInASortedArray/CheckIfANumberIsMajorityElementInASortedArrayS.scala) |
+| 1129   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                  |     `Medium`    | [Java](nextGreaterNodeInLinkedList/NextGreaterNodeInLinkedList.java) |
 | 1124   | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)                                  |     `Medium`    | [Java](longestWellPerformingInterval/LongestWellPerformingInterval.java) |
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                            |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Python](relativeSortArray/RelativeSortArray.py), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
@@ -41,6 +42,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-78_solv
 | 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                |     `Easy`      | [Java](jewelsAndStones/JewelsAndStones.java) |
 | 763    | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                  |     `Medium`    | [Java](partitionLabels/PartitionLabels.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                  |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
+| 739    | [DailyTemperatures](https://leetcode.com/problems/daily-temperatures/)                                                               |     `Medium`    | [Java](dailyTemperatures/DailyTemperatures.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
 | 674    | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                |     `Easy`      | [Java](longestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java) |
 | 657    | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                      |     `Easy`      | [Java](robotReturnToOrigin/RobotReturnToOrigin.java) |
@@ -56,6 +58,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-78_solv
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                            |     `Easy`      | [Java](findTheDifference/FindTheDifference.java) |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                              |     `Easy`      | [Java](firstUniqueCharacterInAString/FirstUniqueCharacterInAString.java) |
 | 383    | [Ransom Note](hhttps://leetcode.com/problems/ransom-note/)                                                                           |     `Easy`      | [Java](ransomNote/RansomNote.java) |
+| 380    | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                            |     `Medium`    | [Java](insertDeleteGetRandom/RandomizedSet.java) |
 | 349    | [Intersection Of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                                              |     `Easy`      | [Java](intersectionOfTwoArrays/IntersectionOfTwoArrays.java) |
 | 344    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                      |     `Easy`      | [Java](reverseString/ReverseString.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
@@ -79,6 +82,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-78_solv
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                          |     `Easy`      | [Java](maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
+| 86     | [Partition List](https://leetcode.com/problems/partition-list/)                                                                      |     `Medium`    | [Java](partitionList/PartitionList.java) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
