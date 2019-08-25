@@ -20,6 +20,9 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-83_solv
 
 | #      | Challenge                                                                                                                            |   Difficulty    |  Solution |
 |-------:|--------------------------------------------------------------------------------------------------------------------------------------|:---------------:|:---------|
+| 1167   | [Minimum Cost to Connect Sticks]()                                                                                                   |     `Medium`    | [Java](minimumCostToConnectSticks/MinimumCostToConnectSticks.java) |
+| 1166   | [Design File System]()                                                                                                               |     `Medium`    | [Java](designFileSystem/FileSystem.java) |
+| 1165   | [Single-Row Keyboard]()                                                                                                              |     `Easy`      | [Java](singleRowKeyboard/SingleRowKeyboard.java) |
 | 1161   | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                              |     `Medium`    | [Java](maximumLevelSumOfABinaryTree/MaximumLevelSumOfABinaryTree.java) |
 | 1160   | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)            |     `Easy`      | [Java](findWordsThatCanBeFormedByCharacters/FindWordsThatCanBeFormedByCharacters.java) |
 | 1151   | [Minimum Swaps to Group All 1's Together]()                                                                                          |     `Medium`    | [Java](minimumSwapsToGroupAll1sTogether/MinimumSwapsToGroupAll1sTogether.java) |
