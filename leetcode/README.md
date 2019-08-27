@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-94_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-100_solved-orange.svg)
 =====   
 
 
@@ -52,6 +52,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-94_solv
 | 739    | [DailyTemperatures](https://leetcode.com/problems/daily-temperatures/)                                                               |     `Medium`    | [Java](dailyTemperatures/DailyTemperatures.java) |
 | 735    | [AsteroidCollision](https://leetcode.com/problems/asteroid-collision/)                                                               |     `Medium`    | [Java](asteroidCollision/AsteroidCollision.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
+| 695    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                              |     `Medium`    | [Java](maxAreaOfIsland/MaxAreaOfIsland.java) |
 | 674    | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                |     `Easy`      | [Java](longestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java) |
 | 657    | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                      |     `Easy`      | [Java](robotReturnToOrigin/RobotReturnToOrigin.java) |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                      |     `Easy`      | [Scala](detectCapital/DetectCapitalS.scala) |
@@ -83,14 +84,19 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-94_solv
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
 | 202    | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                          |     `Easy`      | [Java](happyNumber/HappyNumber.java) |
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
+| 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                |     `Medium`    | [Java](numberOfIslands/NumberOfIslands.java) |
+| 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                            |     `Medium`    | [Java](binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
 | 162    | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                |     `Medium`    | [Java](findPeakElement/FindPeakElement.java) |
+| 153    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                          |     `Medium`    | [Java](findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.java) |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 125    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                  |     `Easy`      | [Java](validPalindrome/ValidPalindrome.java) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java), [Scala](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockS.scala) |
+| 113    | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                            |     `Medium`    | [Java](pathSum2/PathSum2.java) |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                          |     `Easy`      | [Java](maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
+| 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                |     `Medium`    | [Java](binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
 | 86     | [Partition List](https://leetcode.com/problems/partition-list/)                                                                      |     `Medium`    | [Java](partitionList/PartitionList.java) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
