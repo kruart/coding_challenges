@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-83_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-94_solved-orange.svg)
 =====   
 
 
@@ -32,11 +32,13 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-83_solv
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                            |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Python](relativeSortArray/RelativeSortArray.py), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                    |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
+| 1026   | [Maximum Difference Between Node And Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)          |     `Medium`    | [Java](maximumDifferenceBetweenNodeAndAncestor/MaximumDifferenceBetweenNodeAndAncestor.java) |
+| 958    | [Check Completeness of A Binary Tree](https://leetcode.com/problems/validate-stack-sequences/)                                       |     `Medium`    | [Java](checkCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.java) |
 | 946    | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                                                  |     `Medium`    | [Java](validateStackSequences/ValidateStackSequences.java) |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                          |     `Easy`      | [Java](validMountainArray/ValidMountainArray.java) |
 | 937    | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)                                                                |     `Easy`      | [Java](reorderLogFiles/ReorderLogFiles.java) |
 | 929    | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                                                      |     `Easy`      | [Java](uniqueEmailAddresses/UniqueEmailAddresses.java) |
-| 921    | [Minimum Add To Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                                       |     `Medium`    | [Java](minimumAddToMakeParenthesesValid/MinimumAddToMakeParenthesesValid.java) |
+| 921    | [Minimum Add To Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                        |     `Medium`    | [Java](minimumAddToMakeParenthesesValid/MinimumAddToMakeParenthesesValid.java) |
 | 904    | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)                                                              |     `Medium`    | [Java](fruitIntoBaskets/FruitIntoBaskets.java), [Scala](fruitIntoBaskets/FruitIntoBasketsS.scala) |
 | 896    | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                    |     `Easy`      | [Java](monotonicArray/MonotonicArray.java) |
 | 881    | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)                                                          |     `Medium`    | [Java](boatsToSavePeople/BoatsToSavePeople.java) |
@@ -83,6 +85,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-83_solv
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
+| 162    | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                |     `Medium`    | [Java](findPeakElement/FindPeakElement.java) |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 125    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                  |     `Easy`      | [Java](validPalindrome/ValidPalindrome.java) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java), [Scala](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockS.scala) |
