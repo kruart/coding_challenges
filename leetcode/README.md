@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-100_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-104_solved-orange.svg)
 =====   
 
 
@@ -27,12 +27,12 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-100_sol
 | 1160   | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)            |     `Easy`      | [Java](findWordsThatCanBeFormedByCharacters/FindWordsThatCanBeFormedByCharacters.java) |
 | 1151   | [Minimum Swaps to Group All 1's Together]()                                                                                          |     `Medium`    | [Java](minimumSwapsToGroupAll1sTogether/MinimumSwapsToGroupAll1sTogether.java) |
 | 1150   | [Check If a Number Is Majority Element in a Sorted Array]()                                                                          |     `Easy`      | [Scala](checkIfANumberIsMajorityElementInASortedArray/CheckIfANumberIsMajorityElementInASortedArrayS.scala) |
-| 1129   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                  |     `Medium`    | [Java](nextGreaterNodeInLinkedList/NextGreaterNodeInLinkedList.java) |
 | 1124   | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/)                                  |     `Medium`    | [Java](longestWellPerformingInterval/LongestWellPerformingInterval.java) |
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                            |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Python](relativeSortArray/RelativeSortArray.py), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                    |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
 | 1026   | [Maximum Difference Between Node And Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)          |     `Medium`    | [Java](maximumDifferenceBetweenNodeAndAncestor/MaximumDifferenceBetweenNodeAndAncestor.java) |
+| 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                  |     `Medium`    | [Java](nextGreaterNodeInLinkedList/NextGreaterNodeInLinkedList.java) |
 | 958    | [Check Completeness of A Binary Tree](https://leetcode.com/problems/validate-stack-sequences/)                                       |     `Medium`    | [Java](checkCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.java) |
 | 946    | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                                                  |     `Medium`    | [Java](validateStackSequences/ValidateStackSequences.java) |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                          |     `Easy`      | [Java](validMountainArray/ValidMountainArray.java) |
@@ -100,18 +100,23 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-100_sol
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
 | 86     | [Partition List](https://leetcode.com/problems/partition-list/)                                                                      |     `Medium`    | [Java](partitionList/PartitionList.java) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
+| 78     | [Subsets](https://leetcode.com/problems/subsets/)                                                                                    |     `Medium`    | [Java](subsets/Subsets.java) |
+| 77     | [Combinations](https://leetcode.com/problems/combinations/)                                                                          |     `Medium`    | [Java](combinations/Combinations.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                  |     `Easy`      | [Java](plusOne/PlusOne.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Python](uniquePaths2/UniquePaths2.py) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](uniquePaths/UniquePaths.java), [Python](uniquePaths/UniquePaths.py)   |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                      |     `Medium`    | [Java](groupAnagrams/GroupAnagrams.java)   |
+| 46     | [Permutations](https://leetcode.com/problems/permutations/)                                                                          |     `Medium`    | [Java](permutations/Permutations.java)   |
+| 39     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                    |     `Medium`    | [Java](combinationSum/CombinationSum.java) |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                      |     `Easy`      | [Java](searchInsertPosition/SearchInsertPosition.java) |
 | 27     | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                      |     `Easy`      | [Java](removeElement/RemoveElement.java) |
 | 26     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                            |     `Easy`      | [Java](removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java) |
 | 21     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                      |     `Easy`      | [Java](mergeTwoSortedLists/MergeTwoSortedLists.java) |
 | 20     | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                |     `Easy`      | [Java](validParentheses/ValidParentheses.java) |
 | 19     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                  |     `Medium`    | [Java](removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java) |
+| 17     | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                        |     `Medium`    | [Java](letterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.java) |
 | 13     | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)                                                                  |     `Easy`      | [Scala](romanToInteger/RomanToIntegerS.scala) |
 | 11     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                |     `Medium`    | [Java](containerWithMostWater/ContainerWithMostWater.java) |
 | 9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                |     `Easy`      | [Scala](palindromeNumber/PalindromeNumberS.scala) |
