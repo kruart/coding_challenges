@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-104_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-109_solved-orange.svg)
 =====   
 
 
@@ -45,7 +45,9 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-104_sol
 | 844    | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                                                  |     `Easy`      | [Java](backspaceStringCompare/BackspaceStringCompare.java) |
 | 836    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                                                |     `Easy`      | [Scala](rectangleOverlap/RectangleOverlapS.scala) |
 | 832    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                |     `Easy`      | [Java](flippingAnImage/FlippingAnImage.java) |
+| 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                  |     `Easy`      | [Java](mostCommonWord/MostCommonWord.java) |
 | 796    | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                                        |     `Easy`      | [Java](rotateString/RotateString.java) |
+| 791    | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                              |     `Medium`    | [Java](customSortString/CustomSortString.java) |
 | 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                |     `Easy`      | [Java](jewelsAndStones/JewelsAndStones.java) |
 | 763    | [Partition Labels](https://leetcode.com/problems/partition-labels/)                                                                  |     `Medium`    | [Java](partitionLabels/PartitionLabels.java) |
 | 744    | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                  |     `Easy`      | [Java](findSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java) |
@@ -53,8 +55,11 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-104_sol
 | 735    | [AsteroidCollision](https://leetcode.com/problems/asteroid-collision/)                                                               |     `Medium`    | [Java](asteroidCollision/AsteroidCollision.java) |
 | 731    | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                                                      |     `Medium`    | [Java](myCalendarTwo/MyCalendarTwo.java), [Scala](myCalendarTwo/MyCalendarTwoS.scala) |
 | 695    | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                              |     `Medium`    | [Java](maxAreaOfIsland/MaxAreaOfIsland.java) |
+| 675    | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)                                          |     `Hard`      | [Java](cutOffTreesForGolfEvent/CutOffTreesForGolfEvent.java) |
 | 674    | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)                |     `Easy`      | [Java](longestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java) |
 | 657    | [Robot Return To Origin](https://leetcode.com/problems/robot-return-to-origin/)                                                      |     `Easy`      | [Java](robotReturnToOrigin/RobotReturnToOrigin.java) |
+| 647    | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                      |     `Medium`    | [Java](palindromicSubstrings/PalindromicSubstrings.java) |
+| 561    | [Array Partition I](https://leetcode.com/problems/array-partition-i/)                                                                |     `Easy`      | [Java](arrayPartitionI/ArrayPartitionI.java) |
 | 520    | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                      |     `Easy`      | [Scala](detectCapital/DetectCapitalS.scala) |
 | 482    | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                                      |     `Easy`      | [Java](licenseKeyFormatting/LicenseKeyFormatting.java) |
 | 461    | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                                  |     `Easy`      | [Java](hammingDistance/HammingDistance.java) |
