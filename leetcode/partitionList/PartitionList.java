@@ -5,24 +5,23 @@ import nextGreaterNodeInLinkedList.NextGreaterNodeInLinkedList;
 // https://leetcode.com/problems/partition-list/
 public class PartitionList {
     public ListNode partition(ListNode head, int x) {
-        ListNode less = new ListNode(-1);
-        ListNode lessHead = less;
-        ListNode greater = new ListNode(-1); // >=
-        ListNode greaterHead = greater;
+        ListNode ltHead = new ListNode(-1);
+        ListNode lt = ltHead;
+        ListNode geHead = new ListNode(-1);
+        ListNode ge = geHead; // >=
 
         while (head != null) {
             if (head.val < x) {
-                less.next = head;
-                less = less.next;
+                lt.next = new ListNode(head.val);
+                lt = lt.next;
             } else {
-                greater.next = head;
-                greater = greater.next;
+                ge.next = new ListNode(head.val);
+                ge = ge.next;
             }
             head = head.next;
         }
-        greater.next = null;
-        less.next = greaterHead.next;
-        return lessHead.next;
+        lt.next = geHead.next;
+        return ltHead.next;
     }
 
     // for local compilation

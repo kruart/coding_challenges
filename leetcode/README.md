@@ -14,12 +14,13 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-109_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-110_solved-orange.svg)
 =====   
 
 
 | #      | Challenge                                                                                                                            |   Difficulty    |  Solution |
 |-------:|--------------------------------------------------------------------------------------------------------------------------------------|:---------------:|:---------|
+| 1197   | [Minimum Knight Moves]()                                                                                                             |     `Medium`    | [Java](minimumKnightMoves/MinimumKnightMoves.java) |
 | 1167   | [Minimum Cost to Connect Sticks]()                                                                                                   |     `Medium`    | [Java](minimumCostToConnectSticks/MinimumCostToConnectSticks.java) |
 | 1166   | [Design File System]()                                                                                                               |     `Medium`    | [Java](designFileSystem/FileSystem.java) |
 | 1165   | [Single-Row Keyboard]()                                                                                                              |     `Easy`      | [Java](singleRowKeyboard/SingleRowKeyboard.java) |
