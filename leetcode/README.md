@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-110_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-112_solved-orange.svg)
 =====   
 
 
@@ -34,6 +34,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-110_sol
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                    |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
 | 1026   | [Maximum Difference Between Node And Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)          |     `Medium`    | [Java](maximumDifferenceBetweenNodeAndAncestor/MaximumDifferenceBetweenNodeAndAncestor.java) |
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                  |     `Medium`    | [Java](nextGreaterNodeInLinkedList/NextGreaterNodeInLinkedList.java) |
+| 980    | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)                                                                  |     `Hard`      | [Java](uniquePaths3/UniquePaths3.java) |
 | 958    | [Check Completeness of A Binary Tree](https://leetcode.com/problems/validate-stack-sequences/)                                       |     `Medium`    | [Java](checkCompletenessOfABinaryTree/CheckCompletenessOfABinaryTree.java) |
 | 946    | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)                                                  |     `Medium`    | [Java](validateStackSequences/ValidateStackSequences.java) |
 | 941    | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                                          |     `Easy`      | [Java](validMountainArray/ValidMountainArray.java) |
@@ -99,6 +100,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-110_sol
 | 153    | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                          |     `Medium`    | [Java](findMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.java) |
 | 136    | [Single Number](https://leetcode.com/problems/single-number/)                                                                        |     `Easy`      | [Java](singleNumber/SingleNumber.java) |
 | 125    | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                  |     `Easy`      | [Java](validPalindrome/ValidPalindrome.java) |
+| 122    | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                              |     `Easy`      | [Java](bestTimeToBuyAndSellStock2/BestTimeToBuyAndSellStock2.java) |
 | 121    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                    |     `Easy`      | [Java](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.java), [Scala](bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockS.scala) |
 | 113    | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                            |     `Medium`    | [Java](pathSum2/PathSum2.java) |
 | 112    | [Path Sum](https://leetcode.com/problems/path-sum/)                                                                                  |     `Easy`      | [Scala](pathSum/PathSumS.scala) |
