@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-112_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-117_solved-orange.svg)
 =====   
 
 
@@ -87,6 +87,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-112_sol
 | 229    | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                            |     `Medium`    | [Java](majorityElement2/MajorityElement2.java), [Scala](majorityElement2/MajorityElement2S.scala) |
 | 219    | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                                        |     `Easy`      | [Java](containsDuplicate2/ContainsDuplicate2.java) |
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                              |     `Easy`      | [Java](containsDuplicate/ContainsDuplicate.java) |
+| 216    | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)                                                            |     `Medium`    | [Java](combinationSum3/CombinationSum3.java) |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    |     `Medium`    | [Java](kthLargestElementInAnArray/KthLargestElementInAnArray.java) |
 | 209    | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                |     `Medium`    | [Java](minimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
