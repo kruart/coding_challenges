@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-117_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-122_solved-orange.svg)
 =====   
 
 
@@ -73,6 +73,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-117_sol
 | 413    | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)                                                                |     `Medium`    | [Java](arithmeticSlices/ArithmeticSlices.java) |
 | 412    | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                |     `Easy`      | [Scala](fizzBuzz/FizzBuzzS.scala) |
 | 404    | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                              |     `Easy`      | [Java](sumOfLeftLeaves/SumOfLeftLeaves.java) |
+| 392    | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                                      |     `Easy`      | [Java](isSubsequence/IsSubsequence.java) |
 | 389    | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                                            |     `Easy`      | [Java](findTheDifference/FindTheDifference.java) |
 | 387    | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                              |     `Easy`      | [Java](firstUniqueCharacterInAString/FirstUniqueCharacterInAString.java) |
 | 383    | [Ransom Note](hhttps://leetcode.com/problems/ransom-note/)                                                                           |     `Easy`      | [Java](ransomNote/RansomNote.java) |
@@ -95,6 +96,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-117_sol
 | 201    | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)                                          |     `Medium`    | [Scala](bitwiseAndOfNumbersRange/BitwiseAndOfNumbersRangeS.scala) |
 | 200    | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                |     `Medium`    | [Java](numberOfIslands/NumberOfIslands.java) |
 | 199    | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                            |     `Medium`    | [Java](binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
+| 198    | [House Robber](https://leetcode.com/problems/house-robber/)                                                                          |     `Easy`      | [Java](houseRobber/HouseRobber.java) |
 | 192    | [Word Frequency](https://leetcode.com/problems/word-frequency/)                                                                      |     `Medium`    | [Bash](wordFrequency/word-frequency.sh) |
 | 169    | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                  |     `Easy`      | [Java](majorityElement/MajorityElement.java) |
 | 162    | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                |     `Medium`    | [Java](findPeakElement/FindPeakElement.java) |
@@ -108,15 +110,18 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-117_sol
 | 104    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                          |     `Easy`      | [Java](maximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java) |
 | 102    | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                |     `Medium`    | [Java](binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.java) |
 | 100    | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                |     `Easy`      | [Scala](sameTree/SameTreeS.scala) |
+| 92     | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                      |     `Medium`    | [Java](reverseLinkedList2/ReverseLinkedList2.java) |
 | 86     | [Partition List](https://leetcode.com/problems/partition-list/)                                                                      |     `Medium`    | [Java](partitionList/PartitionList.java) |
 | 79     | [Word Search](https://leetcode.com/problems/word-search/)                                                                            |     `Medium`    | [Java](wordSearch/WordSearch.java) |
 | 78     | [Subsets](https://leetcode.com/problems/subsets/)                                                                                    |     `Medium`    | [Java](subsets/Subsets.java) |
 | 77     | [Combinations](https://leetcode.com/problems/combinations/)                                                                          |     `Medium`    | [Java](combinations/Combinations.java) |
 | 75     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                            |     `Medium`    | [Java](sortColors/SortColors.java) |
+| 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                    |     `Easy`      | [Java](climbingStairs/ClimbingStairs.java) |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                  |     `Easy`      | [Java](plusOne/PlusOne.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Java](uniquePaths2/UniquePaths2.java), [Python](uniquePaths2/UniquePaths2.py) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](uniquePaths/UniquePaths.java), [Python](uniquePaths/UniquePaths.py)   |
+| 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                  |     `Easy`    | [Java](maximumSubarray/MaximumSubarray.java)   |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                      |     `Medium`    | [Java](groupAnagrams/GroupAnagrams.java)   |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/)                                                                          |     `Medium`    | [Java](permutations/Permutations.java)   |
 | 39     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                    |     `Medium`    | [Java](combinationSum/CombinationSum.java) |
