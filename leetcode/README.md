@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-122_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-124_solved-orange.svg)
 =====   
 
 
@@ -90,6 +90,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-122_sol
 | 217    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                              |     `Easy`      | [Java](containsDuplicate/ContainsDuplicate.java) |
 | 216    | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)                                                            |     `Medium`    | [Java](combinationSum3/CombinationSum3.java) |
 | 215    | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                    |     `Medium`    | [Java](kthLargestElementInAnArray/KthLargestElementInAnArray.java) |
+| 213    | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                                    |     `Medium`    | [Java](houseRobber2/HouseRobber2.java) |
 | 209    | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                                                |     `Medium`    | [Java](minimumSizeSubarraySum/MinimumSizeSubarraySum.java) |
 | 206    | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                            |     `Easy`      | [Java](reverseLinkedList/ReverseLinkedList.java) |
 | 202    | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                          |     `Easy`      | [Java](happyNumber/HappyNumber.java) |
@@ -119,6 +120,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-122_sol
 | 70     | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                    |     `Easy`      | [Java](climbingStairs/ClimbingStairs.java) |
 | 67     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                              |     `Easy`      | [Java](addBinary/AddBinary.java) |
 | 66     | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                  |     `Easy`      | [Java](plusOne/PlusOne.java) |
+| 64     | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                  |     `Medium`    | [Java](minimumPathSum/MinimumPathSum.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Java](uniquePaths2/UniquePaths2.java), [Python](uniquePaths2/UniquePaths2.py), [Scala](uniquePaths2/UniquePaths2S.scala) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](uniquePaths/UniquePaths.java), [Python](uniquePaths/UniquePaths.py), [Scala](uniquePaths/UniquePathsS.scala) |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                  |     `Easy`      | [Java](maximumSubarray/MaximumSubarray.java)   |
