@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-124_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-126_solved-orange.svg)
 =====   
 
 
@@ -82,6 +82,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-124_sol
 | 344    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                      |     `Easy`      | [Java](reverseString/ReverseString.java) |
 | 290    | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                                          |     `Easy`      | [Java](wordPattern/WordPattern.java) |
 | 283    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                            |     `Easy`      | [Java](moveZeroes/MoveZeroes.java) |
+| 279    | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                                                    |     `Medium`    | [Java](perfectSquares/PerfectSquares.java) |
 | 268    | [Missing Number](https://leetcode.com/problems/missing-number/)                                                                      |     `Easy`      | [Java](missingNumber/MissingNumber.java) |
 | 242    | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                        |     `Easy`      | [Scala](validAnagram/ValidAnagramS.scala) |
 | 231    | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                          |     `Easy`      | [Java](powerOfTwo/PowerOfTwo.java) |
@@ -123,6 +124,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-124_sol
 | 64     | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                                  |     `Medium`    | [Java](minimumPathSum/MinimumPathSum.java) |
 | 63     | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                                    |     `Medium`    | [Java](uniquePaths2/UniquePaths2.java), [Python](uniquePaths2/UniquePaths2.py), [Scala](uniquePaths2/UniquePaths2S.scala) |
 | 62     | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                          |     `Medium`    | [Java](uniquePaths/UniquePaths.java), [Python](uniquePaths/UniquePaths.py), [Scala](uniquePaths/UniquePathsS.scala) |
+| 55     | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                |     `Medium`    | [Java](jumpGame/JumpGame.java)   |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                  |     `Easy`      | [Java](maximumSubarray/MaximumSubarray.java)   |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                      |     `Medium`    | [Java](groupAnagrams/GroupAnagrams.java)   |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/)                                                                          |     `Medium`    | [Java](permutations/Permutations.java)   |
