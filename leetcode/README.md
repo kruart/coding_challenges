@@ -14,12 +14,14 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-126_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-128_solved-orange.svg)
 =====   
 
 
 | #      | Challenge                                                                                                                            |   Difficulty    |  Solution |
 |-------:|--------------------------------------------------------------------------------------------------------------------------------------|:---------------:|:---------|
+| 1229   | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)                                                                |     `Medium`    | [Java](meetingScheduler/MeetingScheduler.java) |
+| 1228   | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/)                  |     `Easy`      | [Java](missingNumberInArithmeticProgression/MissingNumberInArithmeticProgression.java) |
 | 1197   | [Minimum Knight Moves]()                                                                                                             |     `Medium`    | [Java](minimumKnightMoves/MinimumKnightMoves.java) |
 | 1167   | [Minimum Cost to Connect Sticks]()                                                                                                   |     `Medium`    | [Java](minimumCostToConnectSticks/MinimumCostToConnectSticks.java) |
 | 1166   | [Design File System]()                                                                                                               |     `Medium`    | [Java](designFileSystem/FileSystem.java) |

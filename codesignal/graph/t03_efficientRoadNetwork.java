@@ -1,9 +1,5 @@
 package graph;
 
-import scala.Array;
-
-import java.util.Arrays;
-
 public class t03_efficientRoadNetwork {
     boolean efficientRoadNetwork(int n, int[][] roads) {
         int[][] matrix = new int[n][n];
