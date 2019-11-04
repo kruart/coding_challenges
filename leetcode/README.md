@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-130_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-131_solved-orange.svg)
 =====   
 
 
@@ -34,6 +34,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-130_sol
 | 1123   | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)                  |     `Medium`    | [Java](lowestCommonAncestorOfDeepestLeaves/LowestCommonAncestorOfDeepestLeaves.java) |
 | 1122   | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)                                                            |     `Easy`      | [Java](relativeSortArray/RelativeSortArray.java), [Python](relativeSortArray/RelativeSortArray.py), [Scala](relativeSortArray/RelativeSortArrayS.scala) |
 | 1108   | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                                                    |     `Easy`      | [Java](defangingAnIPAddress/DefangingAnIPAddress.java), [Python](defangingAnIPAddress/DefangingAnIPAddress.py), [Scala](defangingAnIPAddress/DefangingAnIPAddressS.scala) |
+| 1054   | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)                                                                  |     `Medium`    | [Java](distantBarcodes/DistantBarcodes.java) |
 | 1026   | [Maximum Difference Between Node And Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)          |     `Medium`    | [Java](maximumDifferenceBetweenNodeAndAncestor/MaximumDifferenceBetweenNodeAndAncestor.java) |
 | 1019   | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)                                  |     `Medium`    | [Java](nextGreaterNodeInLinkedList/NextGreaterNodeInLinkedList.java) |
 | 989    | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                                          |     `Easy`      | [Java](addToArrayFormOfInteger/AddToArrayFormOfInteger.java) |
