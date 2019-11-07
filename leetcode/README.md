@@ -14,7 +14,7 @@
 ![Language](https://img.shields.io/badge/Language-Bash-7873ae.svg)
 -->
   
-LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-131_solved-orange.svg)
+LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-133_solved-orange.svg)
 =====   
 
 
@@ -53,6 +53,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-131_sol
 | 836    | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                                                |     `Easy`      | [Scala](rectangleOverlap/RectangleOverlapS.scala) |
 | 832    | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                |     `Easy`      | [Java](flippingAnImage/FlippingAnImage.java) |
 | 819    | [Most Common Word](https://leetcode.com/problems/most-common-word/)                                                                  |     `Easy`      | [Java](mostCommonWord/MostCommonWord.java) |
+| 807    | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)                                |     `Medium`    | [Java](maxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline.java), [Scala](maxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkylineS.scala) |
 | 796    | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                                        |     `Easy`      | [Java](rotateString/RotateString.java) |
 | 791    | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/)                                                              |     `Medium`    | [Java](customSortString/CustomSortString.java) |
 | 771    | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                                                |     `Easy`      | [Java](jewelsAndStones/JewelsAndStones.java) |
@@ -132,6 +133,7 @@ LeetCode solutions ![Challenges](https://img.shields.io/badge/Challenges-131_sol
 | 55     | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                                |     `Medium`    | [Java](jumpGame/JumpGame.java)   |
 | 53     | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                  |     `Easy`      | [Java](maximumSubarray/MaximumSubarray.java)   |
 | 49     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                      |     `Medium`    | [Java](groupAnagrams/GroupAnagrams.java)   |
+| 48     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                          |     `Medium`    | [Java](rotateImage/RotateImage.java)   |
 | 46     | [Permutations](https://leetcode.com/problems/permutations/)                                                                          |     `Medium`    | [Java](permutations/Permutations.java)   |
 | 39     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                                    |     `Medium`    | [Java](combinationSum/CombinationSum.java) |
 | 35     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                      |     `Easy`      | [Java](searchInsertPosition/SearchInsertPosition.java) |
